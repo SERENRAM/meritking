@@ -44,7 +44,7 @@
                Giriş Yap
                </button> <a data-v-c70e1c26="" href="/forgot-password" class="login__forgot"><i data-v-3ee02676="" data-v-c70e1c26="" class="icon-bell icon--lg"></i> <span data-v-c70e1c26="">Şifrenizi mi unuttunuz?</span></a> 
                <!-- Turnstile CAPTCHA -->
-               <div class="cf-turnstile" data-sitekey="0x4AAAAAAAiCoo-_IO_2E1zF"></div>
+               <div class="cf-turnstile" data-sitekey="0x4AAAAAAAiCoo-_IO_2E1zF" data-theme="light" data-size="compact"></div>
 
                <p data-v-c70e1c26="">Cloudflare is a global cloud platform designed to make everything you connect to the Internet secure, private, fast and reliable.</p>
             </div>

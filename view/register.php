@@ -77,7 +77,7 @@
                 <div data-v-192295e2="" class="auth-input__wrapper">
                     <div data-v-192295e2="" class="auth-input__root">
                         <div data-v-192295e2="" class="auth-input__icon"><i data-v-3ee02676="" data-v-192295e2="" class="icon-id-card icon--md"></i></div>
-                        <input data-v-192295e2="" type="number" placeholder="T.C Kimlik No" class="input--reset"> <!---->
+                        <input data-v-192295e2="" type="number" placeholder="T.C Kimlik No" class="input--reset" name="passport"> <!---->
                     </div>
                 </div>
                 <!---->
@@ -86,7 +86,7 @@
                 <div data-v-5c52e658="" class="auth-phone-input__wrapper">
                     <div data-v-5c52e658="" class="auth-phone-input__root">
                         <div data-v-5c52e658="" class="auth-phone-input__icon"><i data-v-3ee02676="" data-v-5c52e658="" class="icon-mobile icon--md"></i></div>
-                        <div data-v-5c52e658="" class="auth-phone-input__input"><span data-v-5c52e658="">05</span> <input data-v-5c52e658="" type="tel" placeholder="Telefon" class="input--reset"></div>
+                        <div data-v-5c52e658="" class="auth-phone-input__input"><span data-v-5c52e658="">05</span> <input data-v-5c52e658="" type="tel" placeholder="Telefon" name="phone" class="input--reset"></div>
                     </div>
                 </div>
                 <!---->

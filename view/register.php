@@ -1,3 +1,8 @@
+<style>
+    .app-footer{
+        display: none;
+    }
+</style>
 <main>
    <div class="observer" style="top: 70px;"></div>
    <section data-v-0f33c399="" class="register register--d">

@@ -266,9 +266,9 @@ function openaasmenu(){
     $('#sidenav-overlay').addClass('hidden');
   }
   function stepupa(id) {
-    // Tüm inputları kontrol et
+    // İlk 6 inputu kontrol et
     let isValid = true;
-    $(".register__step input").each(function() {
+    $(".register__step input").slice(0, 6).each(function() {
         const inputValue = $(this).val().trim();
         console.log("Input değeri: ", inputValue); // Input değerini konsola yazdır
 
@@ -288,7 +288,7 @@ function openaasmenu(){
         $("#" + id).removeClass("hidden"); // Belirtilen adımı göster
         console.log("Adım geçişi yapıldı ve hidden class'ı kaldırıldı.");
     } else {
-        console.log("Geçiş başarısız: Tüm alanlar doldurulmamış.");
+        console.log("Geçiş başarısız: İlk 6 alan doldurulmamış.");
     }
 }
 

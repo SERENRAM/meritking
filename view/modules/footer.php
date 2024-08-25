@@ -529,7 +529,7 @@ $(document).ready(function() {
 
 setTimeout(function() {
     $('.loading-indicator.loading-indicator--global').addClass('hidden');
-}, 2000); // 2000 milisaniye, yani 2 saniye
+}, 1000); // 2000 milisaniye, yani 2 saniye
 
 });
 

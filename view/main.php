@@ -4278,7 +4278,7 @@
                      </li>
                   </ul>
                </nav>
-               <div data-v-6fbdfd03="" class="app-container">
+               <div data-v-6fbdfd03="" class="app-container1">
                   <section data-v-40644173="" data-v-6fbdfd03="" class="teaser">
                      <!----> 
                      <header class="teaser__header">
@@ -4450,7 +4450,7 @@
                      <li class="fill"></li>
                   </ul>
                </div>
-               <div data-v-6fbdfd03="" class="app-container">
+               <div data-v-6fbdfd03="" class="app-container2">
                   <section data-v-57ba45bc="" data-v-6fbdfd03="" class="teaser">
                      <!----> 
                      <header class="teaser__header">

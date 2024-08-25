@@ -745,7 +745,7 @@ $(document).ready(function() {
 
          </script>
 
-         <div class="app-modal app-modal--dynamic-width">
+         <div class="app-modal app-modal--dynamic-width hidden modal">
    <div class="app-modal__backdrop"></div>
    <div class="app-modal__root surface" style="border-radius: 20px;">
       <!----> 

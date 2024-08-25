@@ -442,3 +442,130 @@
             <div style=position:fixed;z-index:2147483642;right:0%;bottom:0%><a href="https://vue.comm100.com/chatwindow.aspx?siteId=220263&amp;planId=07010000-0000-0000-0000-008e00035c67" aria-label="Open Live Chat window" role=button><img src=/assets/images/188.jpg alt="Open Live Chat window" style=border:none></a></div>
          </div>
       </div>
+      <?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
+<script>
+  function loginModal(){
+  $('.LoginModal').removeClass('hidden');
+  $('.NavigationWindow ').removeClass('NavigationWindowOpened');
+
+}
+function discountModal(){
+  $('#discountModal').toggleClass('hidden');
+
+}
+	 function guncelleniyor(){
+      swal.fire('Hata!','Bu ödeme yöntemi güncelleniyor','warning');
+   }
+	<?php if(isset($us['id'])){ ?>
+   function yetersiz(){
+      swal.fire('Hata!','Yetersiz Bakiye, Canlı Desteke İletişime Geçiniz','warning');
+   }
+	<?php }else{?>
+	function yetersiz(){
+    loginModal();
+   }
+	<?php }?>
+
+function openmenubtom(){
+  $('.NavigationWindow ').toggleClass('NavigationWindowOpened');
+}
+function closeModal(){
+  $('.ModalWindow').addClass('hidden');
+
+}
+
+
+
+
+function openMenu(){
+  $('#menuafgg').toggleClass('app-drawer--open');
+  $('#menuafgg1').toggleClass('hidden');
+  $('.icon--2x').toggleClass('icon-bars');
+  $('.icon--2x').toggleClass('icon-times');
+
+
+
+
+}
+function usernotdefined(){
+   swal.fire('Hata!','Kullanıcı Bulunamadı','error');
+}
+function discount(){
+   swal.fire('Tebrikler!','Talebiniz Alındı!','success');
+}
+function islemkisiti(){
+   Swal.fire({
+   title: 'Hata!',
+   html: 'Hesabınız Kısıtlandı! Canlı Destekle İle İletişime Geçiniz <br> <button onclick="maximizeTawkToWidget();" class="swal2-confirm swal2-styled">Canlı Desteğe Bağlan</button>',
+    icon: 'error',
+    showConfirmButton: false
+});
+
+}
+<?php if(isset($us['id'])){?>
+function loginorp1ay(){
+   Swal.fire({
+    title: 'Hata!',
+    icon: 'error',
+    html: 'Yetersiz Bakiye! Hesabınıza Yükleme Yapınız. <br> <button class="swal2-confirm swal2-styled"><a href="deposit">Para Yatır</a></button>',
+    showConfirmButton: false
+});
+}
+<?php }else{?>
+   function loginorp1ay(){
+      window.location.href = 'login';
+   }
+   <?php }?>
+
+function openUserMenu(){
+  $('#usernemua').toggleClass('app-drawer--open');
+  $('#usernemua1').toggleClass('hidden');
+
+
+
+
+}
+$(document).ready(function() {
+
+setTimeout(function() {
+    $('.loading-indicator.loading-indicator--global').addClass('hidden');
+}, 2000); // 2000 milisaniye, yani 2 saniye
+
+});
+
+
+document.addEventListener("DOMContentLoaded", function() {
+    let suankiZaman = new Date();
+    let gun = suankiZaman.getDate().toString().padStart(2, '0');
+    let ay = (suankiZaman.getMonth() + 1).toString().padStart(2, '0');
+    let yil = suankiZaman.getFullYear();
+
+    let saat = suankiZaman.getHours().toString().padStart(2, '0');
+    let dakika = suankiZaman.getMinutes().toString().padStart(2, '0');
+    let saniye = suankiZaman.getSeconds().toString().padStart(2, '0');
+
+    let tarihSaat = `${gun}.${ay}.${yil}, ${saat}:${dakika}:${saniye} pm`; 
+
+    document.querySelector(".LastLoginDateLabel").nextSibling.nodeValue = tarihSaat;
+});
+
+
+function openmnu(mid){
+  $('.HamburgerSubMenu').addClass('hidden');
+  $('.HamburgerHeaderItem').removeClass('IsSelected');
+  $('#'+mid+'mn').removeClass('hidden');
+  $('#sbmenu'+mid).addClass('IsSelected');
+}
+	window.onload = function() {
+    var spinner = document.getElementById('PageSpinner');
+    spinner.classList.add('Hide');
+}
+function maximizeTawkToWidget() {
+  Tawk_API.maximize();
+  window.Tawk_API.hideWidget();
+	
+}
+window.Tawk_API.onLoad = function(){
+    window.Tawk_API.hideWidget();
+};
+document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);

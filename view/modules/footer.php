@@ -482,7 +482,6 @@
       
       
       <div id="bFEIqbOIf" role="status" aria-live="polite" aria-atomic="false"></div>
-      <iframe id="comm100-iframe" title="comm100-iframe" style="display: none;" lang="tr"></iframe>
       <div id="comm100-button-07010000-0000-0000-0000-008e00035c67"></div>
       <div id="comm100-container">
          <div>

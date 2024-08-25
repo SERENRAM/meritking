@@ -3,10 +3,10 @@
                <div data-v-37ae1e38 class=app-footer__sponsors>
                   <h3 data-v-37ae1e38>Sponsorlarımız</h3>
                   <ul data-v-37ae1e38>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/126.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/127.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/128.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/129.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/126.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/127.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/128.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/129.png>
                   </ul>
                </div>
                <div data-v-37ae1e38 class=app-footer__links>
@@ -37,29 +37,29 @@
                </div>
                <div data-v-37ae1e38 class=app-footer__contact>
                   <h3 data-v-37ae1e38>Hızlı İletişim</h3>
-                  <div data-v-37ae1e38 class=app-footer__messaging><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritkingcom class="contact-link contact-link--telegram false"><img data-v-13641562 src=images/130.svg> <span data-v-13641562>
+                  <div data-v-37ae1e38 class=app-footer__messaging><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritkingcom class="contact-link contact-link--telegram false"><img data-v-13641562 src=/assets/images/130.svg> <span data-v-13641562>
                      Telegram Kanalımız
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritkingcom class="contact-link contact-link--telegram false"><img data-v-13641562 src=images/130.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritkingcom class="contact-link contact-link--telegram false"><img data-v-13641562 src=/assets/images/130.svg> <span data-v-13641562>
                      Telegram Kanalımız
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking2 class="contact-link contact-link--telegram false"><img data-v-13641562 src=images/130.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking2 class="contact-link contact-link--telegram false"><img data-v-13641562 src=/assets/images/130.svg> <span data-v-13641562>
                      Telegram #1
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking3 class="contact-link contact-link--telegram false"><img data-v-13641562 src=images/130.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking3 class="contact-link contact-link--telegram false"><img data-v-13641562 src=/assets/images/130.svg> <span data-v-13641562>
                      Telegram #2
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking5 class="contact-link contact-link--telegram false"><img data-v-13641562 src=images/130.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking5 class="contact-link contact-link--telegram false"><img data-v-13641562 src=/assets/images/130.svg> <span data-v-13641562>
                      Telegram #3
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking1 class="contact-link contact-link--telegram false"><img data-v-13641562 src=images/130.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking1 class="contact-link contact-link--telegram false"><img data-v-13641562 src=/assets/images/130.svg> <span data-v-13641562>
                      Telegram #4
-                     </span></a> <a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957907823" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=images/131.svg> <span data-v-13641562>
+                     </span></a> <a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957907823" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #1
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957908699" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957908699" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #2
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957907688" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957907688" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #3
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380996065523" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380996065523" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #4
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380993557940" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380993557940" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #5
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380662985872" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380662985872" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #6
                      </span></a> 
                   </div>
@@ -73,21 +73,21 @@
                <div data-v-37ae1e38 class=app-footer__social>
                   <h3 data-v-37ae1e38>Takipte kalın</h3>
                   <ul data-v-37ae1e38>
-                     <li data-v-37ae1e38><a data-v-37ae1e38 href=https://www.instagram.com/meritkingonline target=_blank><img data-v-37ae1e38 src=images/132.png></a>
-                     <li data-v-37ae1e38><a data-v-37ae1e38 href=https://twitter.com/meritsosyal target=_blank><img data-v-37ae1e38 src=images/133.png></a>
-                     <li data-v-37ae1e38><a data-v-37ae1e38 href=https://www.youtube.com/@MeritKingResmi target=_blank><img data-v-37ae1e38 src=images/134.png></a>
+                     <li data-v-37ae1e38><a data-v-37ae1e38 href=https://www.instagram.com/meritkingonline target=_blank><img data-v-37ae1e38 src=/assets/images/132.png></a>
+                     <li data-v-37ae1e38><a data-v-37ae1e38 href=https://twitter.com/meritsosyal target=_blank><img data-v-37ae1e38 src=/assets/images/133.png></a>
+                     <li data-v-37ae1e38><a data-v-37ae1e38 href=https://www.youtube.com/@MeritKingResmi target=_blank><img data-v-37ae1e38 src=/assets/images/134.png></a>
                   </ul>
-                  <img data-v-37ae1e38 src=images/135.png> 
+                  <img data-v-37ae1e38 src=/assets/images/135.png> 
                   <div data-v-37ae1e38 class=app-footer__partners>
                      <div data-v-37ae1e38>
                         <h3 data-v-37ae1e38>RESMİ İŞ ORTAKLARIMIZ</h3>
-                        <a data-v-37ae1e38 href="https://bitlly.biz/redirect.php?r=4808061446" target=_blank><img data-v-37ae1e38 src=images/136.png></a> <a data-v-37ae1e38 href=https://www.redly.vip/KnxkqnL target=_blank><img data-v-37ae1e38 src=images/137.png></a> <a data-v-37ae1e38 href="https://bitlly.biz/redirect.php?r=5625975946" target=_blank class=btn><span data-v-37ae1e38>MADRIDBET</span> <span data-v-37ae1e38>Giriş Yap</span></a> <a data-v-37ae1e38 href=https://www.redly.vip/KnxkqnL target=_blank class=btn><span data-v-37ae1e38>KINGROYAL</span> <span data-v-37ae1e38>Giriş Yap</span></a>
+                        <a data-v-37ae1e38 href="https://bitlly.biz/redirect.php?r=4808061446" target=_blank><img data-v-37ae1e38 src=/assets/images/136.png></a> <a data-v-37ae1e38 href=https://www.redly.vip/KnxkqnL target=_blank><img data-v-37ae1e38 src=/assets/images/137.png></a> <a data-v-37ae1e38 href="https://bitlly.biz/redirect.php?r=5625975946" target=_blank class=btn><span data-v-37ae1e38>MADRIDBET</span> <span data-v-37ae1e38>Giriş Yap</span></a> <a data-v-37ae1e38 href=https://www.redly.vip/KnxkqnL target=_blank class=btn><span data-v-37ae1e38>KINGROYAL</span> <span data-v-37ae1e38>Giriş Yap</span></a>
                      </div>
                   </div>
                </div>
                <div data-v-37ae1e38 class=app-footer__misc>
                   <h3 data-v-37ae1e38>sertifikalarımız</h3>
-                  <div data-v-37ae1e38><a data-v-37ae1e38 href="https://www.dmca.com/Protection/Status.aspx?ID=ced00930-7dab-4f06-ba2d-abee410ed27c&amp;refurl=/?rlo=true" target=_blank title="DMCA.com Protection Status" class=dmca-badge><img data-v-37ae1e38 src=images/138.png alt="DMCA.com Protection Status"></a> <img data-v-37ae1e38 src=images/139.png></div>
+                  <div data-v-37ae1e38><a data-v-37ae1e38 href="https://www.dmca.com/Protection/Status.aspx?ID=ced00930-7dab-4f06-ba2d-abee410ed27c&amp;refurl=/?rlo=true" target=_blank title="DMCA.com Protection Status" class=dmca-badge><img data-v-37ae1e38 src=/assets/images/138.png alt="DMCA.com Protection Status"></a> <img data-v-37ae1e38 src=/assets/images/139.png></div>
                </div>
                <div data-v-37ae1e38 class=app-footer__qr>
                   <div data-v-37ae1e38>
@@ -111,20 +111,20 @@
                </div>
                <div data-v-37ae1e38 class=app-footer__payment>
                   <ul data-v-37ae1e38>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/140.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/141.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/142.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/143.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/144.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/145.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/146.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/147.png>
-                     <li data-v-37ae1e38><img data-v-37ae1e38 src=images/148.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/140.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/141.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/142.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/143.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/144.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/145.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/146.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/147.png>
+                     <li data-v-37ae1e38><img data-v-37ae1e38 src=/assets/images/148.png>
                   </ul>
                </div>
                <div data-v-37ae1e38 class=app-footer__anj>
                   <div data-v-37ae1e38 id=anj-49712383-01e8-4911-bcf5-26306e4b3b63 data-anj-seal-id=49712383-01e8-4911-bcf5-26306e4b3b63 data-anj-image-size=60 data-anj-image-type=basic-small>
-                     <div style=display:block;position:relative;overflow:hidden;max-width:60px;min-width:32px;background-image:url(images/15.png)><a target=_blank rel=nonoopener href="https://verification.anjouangaming.org/validate?domain=meritking1125.com&amp;seal_id=da07ecb369ba4826dc219514649d4ba0c6c1089be96b58f3886ab51974aaf3bbe896f55ca15e341c2daa3d25a7f13467&amp;stamp=dcd618b5e344ec16d554707a34c62309"><img alt style=width:100%;height:auto src=images/149.png></a></div>
+                     <div style=display:block;position:relative;overflow:hidden;max-width:60px;min-width:32px;background-image:url(/assets/images/15.png)><a target=_blank rel=nonoopener href="https://verification.anjouangaming.org/validate?domain=meritking1125.com&amp;seal_id=da07ecb369ba4826dc219514649d4ba0c6c1089be96b58f3886ab51974aaf3bbe896f55ca15e341c2daa3d25a7f13467&amp;stamp=dcd618b5e344ec16d554707a34c62309"><img alt style=width:100%;height:auto src=/assets/images/149.png></a></div>
                   </div>
                   <p data-v-37ae1e38>MeritKing.co is owned and operated by Exelogix Ltd. registration number: 27038 BC 2023, registered address: Suite 305, Griffith Corporate Centre, Kingstown, St Vincent and the Grenadines. Contact us destek@meritking.co. MeritKing.co is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. ALSI-122405032-FI2. MeritKing.co has passed all regulatory compliance and is legally authorized to conduct gaming operations for any and all games of chance and wagering.</p>
                </div>
@@ -144,58 +144,58 @@
                <div data-v-61f084f0 class=side-menu>
                   <div data-v-61f084f0 class=side-menu__teaser>
                      <button data-v-61f084f0>
-                        <div data-v-61f084f0><img data-v-61f084f0 src=images/150.png></div>
+                        <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/150.png></div>
                         <span data-v-61f084f0>MERİTKİNG ÖZEL OYUNLAR</span>
                      </button>
                      <ul data-v-61f084f0 style=max-height:0px>
                         <li data-v-61f084f0 class=fill></li>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/pragmaticplay/vs10bbbmerit/18976/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/79.gif alt="Merit King Big Bass Bonanza"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/79.gif alt="Merit King Big Bass Bonanza"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/pragmaticplay/vs20olympmerit/9585/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/80.gif alt="Merit King of Olympus"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/80.gif alt="Merit King of Olympus"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/pragmaticplay/vs20mkprincess/17445/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/81.gif alt="MeritKing Princess"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/81.gif alt="MeritKing Princess"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/softswiss/softswiss-MeritkingBonanza/16784/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/82.gif alt="Meritking Bonanza"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/82.gif alt="Meritking Bonanza"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/pragmaticplay/vs20sweetbmerit/3866/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/83.gif alt="MeritKing Sweet Bonanza"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/83.gif alt="MeritKing Sweet Bonanza"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/softswiss/spnmnl-PickAMeritFruit/20691/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/84.gif alt="Pick a Merit Fruit"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/84.gif alt="Pick a Merit Fruit"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/microgaming/SMG_meritKingAlmightyZeus/17041/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/151.gif alt="Merit King Almighty Zeus"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/151.gif alt="Merit King Almighty Zeus"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/pragmaticplay/vs20meritkingsr/12897/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/152.gif alt="MeritKing Sugar Rush"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/152.gif alt="MeritKing Sugar Rush"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/habanero/SGHotHotMeritKing/8718/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/153.gif alt="Hot Hot MeritKing"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/153.gif alt="Hot Hot MeritKing"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/softswiss/softswiss-MeritkingMillion/9554/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/154.gif alt="Meritking Million"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/154.gif alt="Meritking Million"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/softswiss/spnmnl-MeritKing/13115/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/155.gif alt="Merit King"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/155.gif alt="Merit King"></div>
                            </a>
                         <li data-v-61f084f0>
                            <a data-v-61f084f0 href=/play/slot/habanero/SGWealthInnMeritKing/8963/0>
-                              <div data-v-61f084f0><img data-v-61f084f0 src=images/156.gif alt="Wealth Inn MeritKing"></div>
+                              <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/156.gif alt="Wealth Inn MeritKing"></div>
                            </a>
                         </li>
                         <li data-v-61f084f0 class=fill>
@@ -203,7 +203,7 @@
                   </div>
                   <nav data-v-61f084f0>
                      <ul data-v-61f084f0>
-                        <li data-v-61f084f0><a data-v-61f084f0 href=/million class=side-menu__million><img data-v-61f084f0 src=images/157.gif></a></li>
+                        <li data-v-61f084f0><a data-v-61f084f0 href=/million class=side-menu__million><img data-v-61f084f0 src=/assets/images/157.gif></a></li>
                         <li data-v-61f084f0 class=side-menu__group>
                            <ul data-v-61f084f0>
                               <li data-v-61f084f0 class=side-menu__link>
@@ -220,7 +220,7 @@
                               </li>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <button data-v-61f084f0>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/158.png></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/158.png></div>
                                     <span data-v-61f084f0>CANLI DESTEK</span>
                                  </button>
                            </ul>
@@ -235,17 +235,17 @@
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/slot/category/slot-mania#scroll-anchor--slot>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/159.png alt="SLOT MANIA"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/159.png alt="SLOT MANIA"></div>
                                     <span data-v-61f084f0>SLOT MANIA</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/slot/provider/pragmatic-play#scroll-anchor--slot>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/160.png alt="PRAGMATIC SLOT"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/160.png alt="PRAGMATIC SLOT"></div>
                                     <span data-v-61f084f0>PRAGMATIC SLOT</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/slot/category/ozel-oyunlar#scroll-anchor--slot>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/161.png alt="ÖZEL OYUNLAR"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/161.png alt="ÖZEL OYUNLAR"></div>
                                     <span data-v-61f084f0>ÖZEL OYUNLAR</span>
                                  </a>
                            </ul>
@@ -254,27 +254,27 @@
                            <ul data-v-61f084f0>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/casino>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/162.png alt="CANLI CASINO OYUNLARI"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/162.png alt="CANLI CASINO OYUNLARI"></div>
                                     <span data-v-61f084f0>CANLI CASINO OYUNLARI</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/casino/provider/pragmatic-play#scroll-anchor--casino>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/163.png alt="DROPS &amp; WINS"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/163.png alt="DROPS &amp; WINS"></div>
                                     <span data-v-61f084f0>DROPS &amp; WINS</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/casino/category/rulet-oyunlari#scroll-anchor--casino>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/164.png alt=RULET></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/164.png alt=RULET></div>
                                     <span data-v-61f084f0>RULET</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/casino/category/baccarat-oyunlari#scroll-anchor--casino>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/165.png alt=BACCARAT></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/165.png alt=BACCARAT></div>
                                     <span data-v-61f084f0>BACCARAT</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/casino/category/blackjack-oyunlar#scroll-anchor--casino>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/166.png alt=BLACKJACK></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/166.png alt=BLACKJACK></div>
                                     <span data-v-61f084f0>BLACKJACK</span>
                                  </a>
                            </ul>
@@ -283,27 +283,27 @@
                            <ul data-v-61f084f0>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/sportsbook/em>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/167.png alt=BAHİS></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/167.png alt=BAHİS></div>
                                     <span data-v-61f084f0>BAHİS</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/sportsbook/em/canli-spor>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/168.png alt="CANLI BAHİS"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/168.png alt="CANLI BAHİS"></div>
                                     <span data-v-61f084f0>CANLI BAHİS</span>
                                  </a>
                               <li data-v-61f084f0 class="side-menu__link side-menu--new">
                                  <a data-v-61f084f0 href=/esport>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/169.png alt=E-SPOR></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/169.png alt=E-SPOR></div>
                                     <span data-v-61f084f0>E-SPOR</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/sportsbook/em/canli-spor/e-tenis/128/t%C3%BCm%C3%BC/0>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/170.png alt="SANAL BAHİSLER"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/170.png alt="SANAL BAHİSLER"></div>
                                     <span data-v-61f084f0>SANAL BAHİSLER</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/sportsbook/em/etkinlik-sonu%C3%A7u>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/171.png alt="MAÇ SONUÇLARI"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/171.png alt="MAÇ SONUÇLARI"></div>
                                     <span data-v-61f084f0>MAÇ SONUÇLARI</span>
                                  </a>
                            </ul>
@@ -312,22 +312,22 @@
                            <ul data-v-61f084f0>
                               <li data-v-61f084f0 class="side-menu__link side-menu--new">
                                  <a data-v-61f084f0 href=/virtual#all>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/172.png alt="SANAL SPORLAR"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/172.png alt="SANAL SPORLAR"></div>
                                     <span data-v-61f084f0>SANAL SPORLAR</span>
                                  </a>
                               <li data-v-61f084f0 class="side-menu__link side-menu--new">
                                  <a data-v-61f084f0 href=/virtual/run/10431/0>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/173.png alt="CANLI AT YARIŞI"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/173.png alt="CANLI AT YARIŞI"></div>
                                     <span data-v-61f084f0>CANLI AT YARIŞI</span>
                                  </a>
                               <li data-v-61f084f0 class="side-menu__link side-menu--new">
                                  <a data-v-61f084f0 href=/virtual/run/10174/0>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/174.png alt="CANLI KÖPEK YARIŞI"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/174.png alt="CANLI KÖPEK YARIŞI"></div>
                                     <span data-v-61f084f0>CANLI KÖPEK YARIŞI</span>
                                  </a>
                               <li data-v-61f084f0 class="side-menu__link side-menu--new">
                                  <a data-v-61f084f0 href=/virtual#race>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/175.png alt="SANAL YARIŞLAR"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/175.png alt="SANAL YARIŞLAR"></div>
                                     <span data-v-61f084f0>SANAL YARIŞLAR</span>
                                  </a>
                            </ul>
@@ -336,17 +336,17 @@
                            <ul data-v-61f084f0>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/aviator>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/176.png alt=AVIATOR></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/176.png alt=AVIATOR></div>
                                     <span data-v-61f084f0>AVIATOR</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/plinko>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/177.png alt="PLINKO XY"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/177.png alt="PLINKO XY"></div>
                                     <span data-v-61f084f0>PLINKO XY</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/zeppelin>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/178.png alt=ZEPLIN></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/178.png alt=ZEPLIN></div>
                                     <span data-v-61f084f0>ZEPLIN</span>
                                  </a>
                               <li data-v-61f084f0 class="side-menu__link side-menu--new">
@@ -356,27 +356,27 @@
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/casino/tvbet/all>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/179.png alt=TVBET></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/179.png alt=TVBET></div>
                                     <span data-v-61f084f0>TVBET</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/spaceman>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/180.png alt=SPACEMAN></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/180.png alt=SPACEMAN></div>
                                     <span data-v-61f084f0>SPACEMAN</span>
                                  </a>
                               <li data-v-61f084f0 class="side-menu__link side-menu--new">
                                  <a data-v-61f084f0 href=/play/casino/livegames/100000003/0>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/181.png alt="MERİTKİNG ÖZEL TOMBALA"></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/181.png alt="MERİTKİNG ÖZEL TOMBALA"></div>
                                     <span data-v-61f084f0>MERİTKİNG ÖZEL TOMBALA</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/pilot>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/182.png alt=PİLOT></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/182.png alt=PİLOT></div>
                                     <span data-v-61f084f0>PİLOT</span>
                                  </a>
                               <li data-v-61f084f0 class=side-menu__link>
                                  <a data-v-61f084f0 href=/jetx>
-                                    <div data-v-61f084f0><img data-v-61f084f0 src=images/183.png alt=JETX></div>
+                                    <div data-v-61f084f0><img data-v-61f084f0 src=/assets/images/183.png alt=JETX></div>
                                     <span data-v-61f084f0>JETX</span>
                                  </a>
                            </ul>
@@ -391,7 +391,7 @@
                         <li data-v-61f084f0 class=side-menu__group>
                            <h3 data-v-61f084f0>VIP</h3>
                            <ul data-v-61f084f0>
-                              <li data-v-61f084f0 class=side-menu__vip-link><a data-v-61f084f0 href=/vip><img data-v-61f084f0 src=images/184.png alt=VİP> <span data-v-61f084f0>KİNG VİP CLUB’A HEMEN KATIL</span></a>
+                              <li data-v-61f084f0 class=side-menu__vip-link><a data-v-61f084f0 href=/vip><img data-v-61f084f0 src=/assets/images/184.png alt=VİP> <span data-v-61f084f0>KİNG VİP CLUB’A HEMEN KATIL</span></a>
                            </ul>
                         </li>
                         <li data-v-61f084f0 class=side-menu__group>
@@ -422,9 +422,9 @@
          </div>
          <div data-v-2b7e6fca class=contact-widget>
             <div data-v-2b7e6fca class=contact-widget__container>
-               <div data-v-2b7e6fca class="contact-widget__item surface"><button data-v-2b7e6fca class=btn--flex><span data-v-2b7e6fca>Telegram</span></button> <a data-v-2b7e6fca target=_blank href=https://t.me/meritkingcom class=btn--flex><img data-v-2b7e6fca src=images/185.svg></a></div>
-               <div data-v-2b7e6fca class="contact-widget__item surface"><button data-v-2b7e6fca class=btn--flex><span data-v-2b7e6fca>Twitter</span></button> <a data-v-2b7e6fca target=_blank href=https://twitter.com/meritsosyal class=btn--flex><img data-v-2b7e6fca src=images/186.svg></a></div>
-               <div data-v-2b7e6fca class="contact-widget__item surface"><button data-v-2b7e6fca class=btn--flex><span data-v-2b7e6fca>Bizi Ara</span></button> <a data-v-2b7e6fca href=/support class=btn--flex><img data-v-2b7e6fca src=images/187.svg></a></div>
+               <div data-v-2b7e6fca class="contact-widget__item surface"><button data-v-2b7e6fca class=btn--flex><span data-v-2b7e6fca>Telegram</span></button> <a data-v-2b7e6fca target=_blank href=https://t.me/meritkingcom class=btn--flex><img data-v-2b7e6fca src=/assets/images/185.svg></a></div>
+               <div data-v-2b7e6fca class="contact-widget__item surface"><button data-v-2b7e6fca class=btn--flex><span data-v-2b7e6fca>Twitter</span></button> <a data-v-2b7e6fca target=_blank href=https://twitter.com/meritsosyal class=btn--flex><img data-v-2b7e6fca src=/assets/images/186.svg></a></div>
+               <div data-v-2b7e6fca class="contact-widget__item surface"><button data-v-2b7e6fca class=btn--flex><span data-v-2b7e6fca>Bizi Ara</span></button> <a data-v-2b7e6fca href=/support class=btn--flex><img data-v-2b7e6fca src=/assets/images/187.svg></a></div>
             </div>
          </div>
          <div id=fireworks-container></div>
@@ -439,6 +439,6 @@
             <div aria-live=polite style=position:absolute;left:-10000px;top:-10000px;width:1px;height:1px></div>
          </div>
          <div id=comm100-float-button-07010000-0000-0000-0000-008e00035c67-2>
-            <div style=position:fixed;z-index:2147483642;right:0%;bottom:0%><a href="https://vue.comm100.com/chatwindow.aspx?siteId=220263&amp;planId=07010000-0000-0000-0000-008e00035c67" aria-label="Open Live Chat window" role=button><img src=images/188.jpg alt="Open Live Chat window" style=border:none></a></div>
+            <div style=position:fixed;z-index:2147483642;right:0%;bottom:0%><a href="https://vue.comm100.com/chatwindow.aspx?siteId=220263&amp;planId=07010000-0000-0000-0000-008e00035c67" aria-label="Open Live Chat window" role=button><img src=/assets/images/188.jpg alt="Open Live Chat window" style=border:none></a></div>
          </div>
       </div>

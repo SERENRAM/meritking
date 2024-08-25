@@ -300,10 +300,7 @@ $(document).on('input', '.register__step input', function() {
 });
 
 $(document).ready(function() {
-    // Sayfa yüklendiğinde surface ve slogan-visible sınıflarını kaldır
-    $('.app-header__slogan').removeClass('surface slogan-visible');
-    
-    // Sayfa kaydırma olayını dinle
+  
     $(window).on('scroll', function() {
         if ($(this).scrollTop() > 0) {
             // Sayfa aşağı kaydırıldığında belirttiğiniz sınıfları kaldır

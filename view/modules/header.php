@@ -58,7 +58,65 @@
    <style type="text/css">.login[data-v-c70e1c26]{display:grid;grid-template-rows:1fr;height:calc(100% - 75px);padding-bottom:env(safe-area-inset-bottom)}.login__container[data-v-c70e1c26]{display:grid;padding:1rem;grid-gap:1rem;-ms-flex-line-pack:center;align-content:center}.login__promotions[data-v-c70e1c26]{display:grid;width:100%;grid-gap:.5rem}.login__promotions h2[data-v-c70e1c26]{text-align:center;color:#091840}.login__promotions ul[data-v-c70e1c26]{display:grid;padding:0 1rem;grid-gap:.375rem;grid-auto-flow:column;grid-auto-columns:minmax(80vw,1fr);overflow:hidden;overflow-x:scroll;overflow-x:overlay;width:calc(100% + 2rem);-webkit-transform:translateX(-1rem);transform:translateX(-1rem);scrollbar-width:none;-ms-overflow-style:none}.login__promotions ul[data-v-c70e1c26]::-webkit-scrollbar{display:none}.login__promotions ul button[data-v-c70e1c26]{position:relative;display:block;width:100%;height:0;overflow:hidden;border-radius:20px;padding-bottom:30%}.login__promotions ul button img[data-v-c70e1c26]{position:absolute;display:block;top:0;left:0;width:100%;height:100%;-o-object-fit:cover;object-fit:cover;-o-object-position:top;object-position:top}.login form[data-v-c70e1c26]{position:relative;width:100%;padding:1rem;overflow:hidden;border-radius:20px;background-color:#e7e7e7}.login form[data-v-c70e1c26]:after,.login form[data-v-c70e1c26]:before{position:absolute;top:50%;content:"";width:90%;height:100%;background:50%/contain no-repeat url("/images/redesign/lion-light.png")}.login form[data-v-c70e1c26]:before{left:0;-webkit-transform:translate(-50%,-45%);transform:translate(-50%,-45%)}.login form[data-v-c70e1c26]:after{right:0;-webkit-transform:scaleX(-1) translate(-50%,-45%);transform:scaleX(-1) translate(-50%,-45%)}.login form button[type=submit][data-v-c70e1c26]{font-weight:600;padding:.75rem 1rem;border-radius:30px;background-color:#479e2c}.login form p[data-v-c70e1c26]{font-size:.625rem;text-align:center}.login__brand[data-v-c70e1c26]{position:relative;z-index:2;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-bottom:1rem}.login__brand h3[data-v-c70e1c26]{font-weight:700;color:#091840}.login__brand img[data-v-c70e1c26]{display:block;width:130px}.login__form[data-v-c70e1c26]{position:relative;display:grid;z-index:2;grid-gap:.5rem}.login__form .turnstile[data-v-c70e1c26]{justify-self:center}.login__form p[data-v-c70e1c26]{color:#000}.login__forgot[data-v-c70e1c26]{justify-self:center;display:-webkit-box;display:-ms-flexbox;display:flex;grid-gap:.5rem;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:#091840}.login__forgot span[data-v-c70e1c26]{font-weight:600;text-decoration:underline}.login--d[data-v-c70e1c26]{height:100%;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;background:top/cover no-repeat url("https://d3ejb2l5e3bvmc.cloudfront.net/meritking/assets/backgrounds/weblogin-bg.jpg")}.login--d .login__container[data-v-c70e1c26]{width:800px;grid-gap:unset;overflow:hidden;grid-template-columns:repeat(2,minmax(0,1fr))}.login--d .login__promotions[data-v-c70e1c26]{height:100%;padding:.75rem;grid-gap:.5rem;overflow:hidden;background-color:#e7e7e7;border-radius:20px 0 0 20px}.login--d .login__promotions ul[data-v-c70e1c26]{width:100%;padding:0;-webkit-transform:unset;transform:unset;grid-auto-flow:unset;grid-auto-columns:unset;overflow:hidden;overflow-y:scroll;overflow-y:overlay}.login--d form[data-v-c70e1c26]{display:grid;grid-template-rows:auto 1fr;border-radius:0 20px 20px 0}.login--d .login__form[data-v-c70e1c26]{-webkit-box-align:start;-ms-flex-align:start;align-items:start}.login--d .login__form .turnstile[data-v-c70e1c26],.login--d .login__form p[data-v-c70e1c26]{-ms-flex-item-align:end;align-self:end}</style>
       <style type="text/css">.auth-input[data-v-192295e2]{position:relative}.auth-input__wrapper[data-v-192295e2]{position:relative;padding:.5rem .375rem;overflow:hidden;background-color:#9c1f32;border-radius:30px}.auth-input__root[data-v-192295e2]{display:grid;grid-gap:2px;background-color:#fff;grid-template-columns:2.5rem 1fr}.auth-input--invalid .auth-input__root[data-v-192295e2]{background-color:#f42727}.auth-input__icon[data-v-192295e2]{font-size:1rem;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;background-color:#9c1f32}.auth-input input[data-v-192295e2]{color:#fff;background-color:#9c1f32;padding:.25rem 2rem .25rem 1rem}.auth-input__toggle[data-v-192295e2]{position:absolute;top:0;right:0;width:2.375rem;height:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.auth-input--light .auth-input__wrapper[data-v-192295e2]{background-color:#e7e7e7;border:1px solid #d7d7d7}.auth-input--light.auth-input--invalid[data-v-192295e2]{border-color:#f42727}.auth-input--light.auth-input--invalid .auth-input__root[data-v-192295e2]{background-color:#f42727}.auth-input--light .auth-input__root[data-v-192295e2]{background-color:#d7d7d7}.auth-input--light .auth-input__icon[data-v-192295e2]{color:#091840;background-color:#e7e7e7}.auth-input--light input[data-v-192295e2]{color:#000;background-color:#e7e7e7}.auth-input--light input[data-v-192295e2]::-webkit-input-placeholder{color:rgba(0,0,0,.6)}.auth-input--light input[data-v-192295e2]::-moz-placeholder{color:rgba(0,0,0,.6)}.auth-input--light input[data-v-192295e2]::-ms-input-placeholder{color:rgba(0,0,0,.6)}.auth-input--light input[data-v-192295e2]::placeholder{color:rgba(0,0,0,.6)}.auth-input--light .auth-input__toggle[data-v-192295e2]{color:#091840}.auth-input .input__error[data-v-192295e2]{font-size:.625rem}</style>
       <style type="text/css">.turnstile{position:relative;height:70.5px}.turnstile .input__error{position:absolute;bottom:0;left:0;-webkit-transform:translateY(100%);transform:translateY(100%)}.turnstile__wrapper{position:relative;display:inline-block;overflow:hidden;border-radius:50px;background-color:#fafafa}.turnstile__wrapper:after,.turnstile__wrapper:before{position:absolute;background-color:#fafafa;width:100%;height:4px;content:""}.turnstile__wrapper:before{z-index:2;top:2px}.turnstile__wrapper:after{bottom:4px}.turnstile .cf-turnstile-wrapper{-webkit-transform:translateY(2px);transform:translateY(2px)}</style>
-      
+      <script src="https://code.jquery.com/jquery-3.7.0.min.js"
+      integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+   <script src="/assets/js/script.js"></script>
+   <script src="/assets/js/app.js"></script>
+   <script src="/assets/js/payment.js"></script>
+
+   <script>
+        let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+        let locate = <?= intval($main['location']) ?>;
+        let phone_status = <?= intval($main['phone_status']) ?>;
+        let passport_status = <?= intval($main['passport_status']) ?>;
+    </script>
+    <style>
+      .hidden{
+         display: none !important;
+      }
+    </style>
+     <style>
+      .hidden{
+         display: none;
+      }
+      .sidePanel-holder-bc{
+         z-index: 10000;
+      }
+      .row--J_6e9 a:not(.stats-button--n4FMO) {
+    display: block;
+    height: 5% !important;
+    width: 100%;
+}
+    </style>
+    <style>
+      div:where(.swal2-container).swal2-center>.swal2-popup {
+    grid-column: 2;
+    grid-row: 2;
+    align-self: center;
+    justify-self: center;
+    background: #1b1e23 !important;
+    box-shadow: 1px 1px 20px #333 !important;
+    border-radius: 20px !important;
+    color: #fff !important;
+}
+div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
+    border: 0;
+    border-radius: 0.25em;
+    background: initial;
+    background-color: #ff9e00 !important;
+    color: #fff !important;
+    font-size: 1em;
+}
+div:where(.swal2-icon).swal2-warning {
+    border-color: #ebb058 !important;
+    color: #ebb058 !important;
+}
+    </style>
+   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css" />
+   <!-- Add the slick-theme.css if you want default styling -->
+   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
+   <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
    </head>
    <body>
       <div id=layout--default class=guest>

@@ -15,8 +15,8 @@
                      <ul data-v-37ae1e38>
                         <li data-v-37ae1e38><a data-v-37ae1e38 href=/slot>Slot</a>
                         <li data-v-37ae1e38><a data-v-37ae1e38 href=/casino>Canlı Casino</a>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/sportsbook/em>Spor Bahisleri</a>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/sportsbook/em/canli-spor>CANLI BAHİS</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/sportsbook>Spor Bahisleri</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/livesports>CANLI BAHİS</a>
                         <li data-v-37ae1e38><a data-v-37ae1e38 href=/aviator>Aviator</a>
                         <li data-v-37ae1e38><a data-v-37ae1e38 href=/spaceman>Spaceman</a>
                         <li data-v-37ae1e38><a data-v-37ae1e38 href=/pilot>Pilot</a>
@@ -26,12 +26,12 @@
                   <nav data-v-37ae1e38 class=app-footer__link-group>
                      <h3 data-v-37ae1e38>Hakkımızda</h3>
                      <ul data-v-37ae1e38>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/page/sorumlubahis>Sorumlu Bahis</a>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/page/mobilbahis>Mobil Bahis</a>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/page/gizlilik>Gizlilik İlkesi</a>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/page/genel_kurallar>Genel Kurallar ve Şartlar</a>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/page/scorerules>Tahmin Kuralları</a>
-                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/page/sssorular>Sıkça Sorulan Sorular</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/sorumlubahis>Sorumlu Bahis</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/mobilbahis>Mobil Bahis</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/gizlilik>Gizlilik İlkesi</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/genel_kurallar>Genel Kurallar ve Şartlar</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/scorerules>Tahmin Kuralları</a>
+                        <li data-v-37ae1e38><a data-v-37ae1e38 href=/sssorular>Sıkça Sorulan Sorular</a>
                      </ul>
                   </nav>
                </div>

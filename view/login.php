@@ -1,3 +1,8 @@
+<style>
+    .app-footer{
+        display: none;
+    }
+</style>
 <main>
    <div class="observer" style="top: 70px;"></div>
    <section data-v-c70e1c26="" class="login login--d">
@@ -37,7 +42,7 @@
                </div>
                <button data-v-c70e1c26="" type="submit" class="btn btn--block btn--uppercase">
                Giriş Yap
-               </button> <a data-v-c70e1c26="" href="/auth/forgot-password" class="login__forgot"><i data-v-3ee02676="" data-v-c70e1c26="" class="icon-bell icon--lg"></i> <span data-v-c70e1c26="">Şifrenizi mi unuttunuz?</span></a> 
+               </button> <a data-v-c70e1c26="" href="/forgot-password" class="login__forgot"><i data-v-3ee02676="" data-v-c70e1c26="" class="icon-bell icon--lg"></i> <span data-v-c70e1c26="">Şifrenizi mi unuttunuz?</span></a> 
                <div data-v-c70e1c26="" class="turnstile">
                   <div class="turnstile__wrapper">
                      <div data-theme="light">

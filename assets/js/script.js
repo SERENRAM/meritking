@@ -270,8 +270,9 @@ function openaasmenu(){
     $('#sidenav-overlay').addClass('hidden');
   }
   function stepupa(id){
+    $(".register__step").addClass("hidden");
     $("#"+id).removeClass("hidden");
      
-    $(".register__step").addClass("hidden");
+ 
     
     }

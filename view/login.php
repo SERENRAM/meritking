@@ -43,14 +43,9 @@
                <button data-v-c70e1c26="" type="submit" class="btn btn--block btn--uppercase">
                Giriş Yap
                </button> <a data-v-c70e1c26="" href="/forgot-password" class="login__forgot"><i data-v-3ee02676="" data-v-c70e1c26="" class="icon-bell icon--lg"></i> <span data-v-c70e1c26="">Şifrenizi mi unuttunuz?</span></a> 
-               <div data-v-c70e1c26="" class="turnstile">
-                  <div class="turnstile__wrapper">
-                     <div data-theme="light">
-                        <div style="border: 0px; margin: 0px; padding: 0px;"><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-vtynu_response" value="0.DuYRSb_oTT5sC22t6SCcCm7xNkV4deSUIGXFFTO9bayekiYnWr90_x-Xh7nB2nD979JJinkzJEYv9mjWXphLHJRqPVWTkQQorfIsidM_cNogertdlcneAHQ_U3CGvQm83ktTiuKMknSJLgLQiy23AwOaItl0om7Lama8u-cgJIA6f999QzK_-koQ6HzgG_df9RpCt3rVm1k6JeMJcTjO9JmB7RjeWR4AgTQLWZS7hs5N11IlaHBDSf-kvanbk1JvR9f8O-CsFEOEnXXMEzieDmEEAANCYXlrD0Yf1hD1xIN0X89V6Ptqne1W5fIFO26rjX2kO6ygeCrdOduwTvT5JVE_2I92SHBxLbK8iZMaS8bQCy_tF5jcGWvKMCnn-b_CCtmFP-nmSn1vPwaUnK-iIDi90mnErAi6ixdVMQLqpGaBZ2tFG1xiQsLklLM-QlSF.qAMzuxOdwM6S57kU8g-L_g.49217ce85723cff3f335c0b7a06b84a67d399f9e19c308ff34de70e1eb396f6f"></div>
-                     </div>
-                  </div>
-                  <!---->
-               </div>
+               <!-- Turnstile CAPTCHA -->
+               <div class="cf-turnstile" data-sitekey="0x4AAAAAAAiCoo-_IO_2E1zF"></div>
+
                <p data-v-c70e1c26="">Cloudflare is a global cloud platform designed to make everything you connect to the Internet secure, private, fast and reliable.</p>
             </div>
          </form>

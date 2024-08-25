@@ -18,7 +18,7 @@
          </div>
          <form data-v-c70e1c26="">
             <div data-v-c70e1c26="" class="login__brand">
-               <img data-v-c70e1c26="" src="/assets/images/redesign/logo-dark.png" alt="MeritKing"> 
+               <img data-v-c70e1c26="" src="/assets/images/logo-dark.png" alt="MeritKing"> 
                <h3 data-v-c70e1c26="">UMUT DEĞİL PARA DAĞITIYORUZ!</h3>
             </div>
             <div data-v-c70e1c26="" class="login__form">

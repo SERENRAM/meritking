@@ -246,7 +246,7 @@
                   <p data-v-5f0f527e="">MERITKING marka prestiji online oyun alanında dünyanın önde gelen otoriteleri tarafından çok sayıda övgü kazandı.</p>
                   <p data-v-5f0f527e="">Bu anlamda bir cok saglayıcı bizim markamıza yönelik oyunlar geliştirdi. Sadık oyuncularımıza destekleri için teşekkür ederiz!</p>
                </article>
-               <img data-v-5f0f527e="" src="/images/award-slot1.png?1f6ff2eadef785c9ebf83873e14c6f81"><img data-v-5f0f527e="" src="/images/award-slot2.png?dd696016ba294d00db79dd89acda3953"><img data-v-5f0f527e="" src="/images/award-slot3.png?a5021789e0381aac0364f06700992bae">
+               <img data-v-5f0f527e="" src="/assets/images/award-slot1.png?1f6ff2eadef785c9ebf83873e14c6f81"><img data-v-5f0f527e="" src="/assets/images/award-slot2.png?dd696016ba294d00db79dd89acda3953"><img data-v-5f0f527e="" src="/assets/images/award-slot3.png?a5021789e0381aac0364f06700992bae">
             </div>
          </div>
          <!----> <!----> 

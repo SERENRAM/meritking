@@ -270,12 +270,12 @@ function openaasmenu(){
     let isValid = true;
     $(".register__step input").each(function() {
         if ($(this).val().trim() === "") {
-            // Eğer input boşsa, geçiş yapılmamalı ve invalid class eklenmeli
-            $(this).addClass("auth-input--invalid");
+            // Eğer input boşsa, auth-input--light class'ına auth-input--invalid class'ını ekle
+            $(this).closest(".auth-input--light").addClass("auth-input--invalid");
             isValid = false;
         } else {
-            // Input doluysa invalid class kaldırılmalı
-            $(this).removeClass("auth-input--invalid");
+            // Input doluysa auth-input--light class'ından auth-input--invalid class'ını kaldır
+            $(this).closest(".auth-input--light").removeClass("auth-input--invalid");
         }
     });
 
@@ -289,6 +289,6 @@ function openaasmenu(){
 // Inputlar üzerinde yazılmaya başlandığında invalid class'ı kaldırma
 $(document).on('input', '.register__step input', function() {
     if ($(this).val().trim() !== "") {
-        $(this).removeClass("auth-input--invalid");
+        $(this).closest(".auth-input--light").removeClass("auth-input--invalid");
     }
 });

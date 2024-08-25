@@ -43,18 +43,7 @@
                <button data-v-c70e1c26="" type="submit" class="btn btn--block btn--uppercase">
                Giriş Yap
                </button> <a data-v-c70e1c26="" href="/forgot-password" class="login__forgot"><i data-v-3ee02676="" data-v-c70e1c26="" class="icon-bell icon--lg"></i> <span data-v-c70e1c26="">Şifrenizi mi unuttunuz?</span></a> 
-               <!-- Turnstile CAPTCHA -->
-                <style>
-                    div#captcha-container {
-    border-radius: 15px;
-    overflow: hidden;
-}
-
-iframe[src*="captcha"] {
-    border-radius: 15px;
-}
-
-                </style>
+               <!-- Turnstile CAPTCHA --><style type="text/css">.turnstile{position:relative;height:70.5px}.turnstile .input__error{position:absolute;bottom:0;left:0;-webkit-transform:translateY(100%);transform:translateY(100%)}.turnstile__wrapper{position:relative;display:inline-block;overflow:hidden;border-radius:50px;background-color:#fafafa}.turnstile__wrapper:after,.turnstile__wrapper:before{position:absolute;background-color:#fafafa;width:100%;height:4px;content:""}.turnstile__wrapper:before{z-index:2;top:2px}.turnstile__wrapper:after{bottom:4px}.turnstile .cf-turnstile-wrapper{-webkit-transform:translateY(2px);transform:translateY(2px)}</style>
                <div class="cf-turnstile" data-sitekey="0x4AAAAAAAiCoo-_IO_2E1zF" data-theme="light" data-size="normal"></div>
 
                <p data-v-c70e1c26="">Cloudflare is a global cloud platform designed to make everything you connect to the Internet secure, private, fast and reliable.</p>

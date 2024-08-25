@@ -744,3 +744,61 @@ $(document).ready(function() {
 });
 
          </script>
+
+         <div class="app-modal app-modal--dynamic-width">
+   <div class="app-modal__backdrop"></div>
+   <div class="app-modal__root surface" style="border-radius: 20px;">
+      <!----> 
+      <div class="app-modal__body">
+         <div data-v-745e62d7="" class="login-modal" id="login" dynamicwidth="true" radius="20px" closebuttonclass="btn--black">
+            <div data-v-745e62d7="" class="login-modal__promotions">
+               <h2 data-v-745e62d7="">PROMOSYONLARIMIZ</h2>
+               <ul data-v-745e62d7="">
+                  <li data-v-745e62d7=""><button data-v-745e62d7=""><img data-v-745e62d7="" src="https://d3ejb2l5e3bvmc.cloudfront.net/production/promotions/promotion_137_37_v6.gif" alt="HERKES 3, ŞANSI HAKEDER"></button></li>
+                  <li data-v-745e62d7=""><button data-v-745e62d7=""><img data-v-745e62d7="" src="https://d3ejb2l5e3bvmc.cloudfront.net/production/promotions/promotion_176_37_v3.gif" alt="%100 HAFTA SONU BONUSU"></button></li>
+                  <li data-v-745e62d7=""><button data-v-745e62d7=""><img data-v-745e62d7="" src="https://d3ejb2l5e3bvmc.cloudfront.net/production/promotions/promotion_135_37_v3.gif" alt="%50 PAZARTESİ BONUSU"></button></li>
+                  <li data-v-745e62d7=""><button data-v-745e62d7=""><img data-v-745e62d7="" src="https://d3ejb2l5e3bvmc.cloudfront.net/production/promotions/promotion_142_37_v3.gif" alt="%40 PERŞEMBE BONUSU"></button></li>
+               </ul>
+            </div>
+            <form data-v-745e62d7="" id="login_form" onsubmit="logIn()" action="javascript:;">
+               <div data-v-745e62d7="" class="login-modal__brand">
+                  <img data-v-745e62d7="" src="/assets/images/logo-dark.png" alt="MeritKing"> 
+                  <h3 data-v-745e62d7="">UMUT DEĞİL PARA DAĞITIYORUZ!</h3>
+               </div>
+               <div data-v-745e62d7="" class="login-modal__form">
+                  <div data-v-192295e2="" data-v-745e62d7="" class="auth-input auth-input--light">
+                     <div data-v-192295e2="" class="auth-input__wrapper">
+                        <div data-v-192295e2="" class="auth-input__root">
+                           <div data-v-192295e2="" class="auth-input__icon"><i data-v-3ee02676="" data-v-192295e2="" class="icon-user icon--md"></i></div>
+                           <input data-v-192295e2="" name="login" type="text" placeholder="Kullanıcı Adınız" class="input--reset"> <!---->
+                        </div>
+                     </div>
+                     <!---->
+                  </div>
+                  <div data-v-192295e2="" data-v-745e62d7="" class="auth-input auth-input--light">
+                     <div data-v-192295e2="" class="auth-input__wrapper">
+                        <div data-v-192295e2="" class="auth-input__root">
+                           <div data-v-192295e2="" class="auth-input__icon"><i data-v-3ee02676="" data-v-192295e2="" class="icon-lock icon--md"></i></div>
+                           <input data-v-192295e2="" type="password" name="password" placeholder="Şifreniz" class="input--reset"> <button data-v-192295e2="" type="button" class="auth-input__toggle"><i data-v-3ee02676="" data-v-192295e2="" class="icon-eye-slash icon--sm"></i></button>
+                        </div>
+                     </div>
+                     <!---->
+                  </div>
+                  <button data-v-745e62d7="" type="submit" class="btn btn--block btn--uppercase">
+                  Giriş Yap
+                  </button> <a data-v-745e62d7="" href="/forgot-password" class="login-modal__forgot"><i data-v-3ee02676="" data-v-745e62d7="" class="icon-bell icon--lg"></i> <span data-v-745e62d7="">Şifrenizi mi unuttunuz?</span></a> 
+                  <div data-v-745e62d7="" class="turnstile">
+                     <div class="turnstile__wrapper">
+                        <div class="cf-turnstile" data-sitekey="0x4AAAAAAAiCoo-_IO_2E1zF" data-theme="light" data-size="normal" data-language="tr"></div>
+
+                     </div>
+                     <!---->
+                  </div>
+                  <p data-v-745e62d7="">Cloudflare is a global cloud platform designed to make everything you connect to the Internet secure, private, fast and reliable.</p>
+               </div>
+            </form>
+         </div>
+      </div>
+      <button class="app-modal__close btn--black"><i data-v-3ee02676="" class="icon-times-circle icon--2x"></i></button>
+   </div>
+</div>

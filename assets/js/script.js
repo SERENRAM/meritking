@@ -279,10 +279,13 @@ function openaasmenu(){
         }
     });
 
-    // Eğer tüm inputlar doluysa adımı göster
     if (isValid) {
-        $(".register__step").addClass("hidden");
-        $("#" + id).removeClass("hidden");
+        console.log("Geçiş yapılan adım ID'si: #" + id);
+        $(".register__step").addClass("hidden"); // Tüm adımları gizle
+        $("#" + id).removeClass("hidden"); // Belirtilen adımı göster
+        console.log("Adım geçişi yapıldı ve hidden class'ı kaldırıldı.");
+    } else {
+        console.log("Geçiş başarısız: Tüm alanlar doldurulmamış.");
     }
 }
 

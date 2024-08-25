@@ -1,14 +1,4 @@
-<style>
-   .app-header__slogan{
-      display: none;
-   }
-   .app-header__dropdown{
-      display: none;
-   }
-   .app-header__warning{
-      display: none;
-   }
-</style>
+
 <main>
    <div class="observer" style="top: 70px;"></div>
    <section data-v-342985b5="" class="sportsbook">
@@ -23,3 +13,11 @@
       <iframe data-v-3f536394="" data-v-342985b5="" id="everymatrix" src="https://sports2.idnup.com/tr/?currentSession=269528824841_2695_XOBAjSBcdUqncF&amp;basePath=https://meritking1125.com/sportsbook/em" scrolling="no" frameborder="0" allow="autoplay; fullscreen" style="height: 2913px;"></iframe>
    </section>
 </main>
+<script>
+   $(document).ready(function() {
+    $('.app-header__slogan').removeClass('slogan-visible');
+    $('.app-header__warning').removeClass('warning-visible');
+    $('.app-header__dropdown').removeClass('dropdown-visible');
+});
+
+</script>

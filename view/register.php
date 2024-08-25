@@ -138,9 +138,8 @@
                 <button data-v-0f33c399="" type="submit" class="btn btn--flex btn--brand btn--uppercase register-button"><i data-v-3ee02676="" data-v-0f33c399="" class="icon-party-horn icon--lg"></i> <span data-v-0f33c399="">Şimdi Kayıt Olun</span></button> 
                 <div data-v-0f33c399="" class="turnstile">
                     <div class="turnstile__wrapper">
-                        <div data-theme="light">
-                        <div style="border: 0px; margin: 0px; padding: 0px;"><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-e8xg1_response" value="0.wBSiP4pMyZTXJHhqlNgaK_b41jyRu00tMNHmo_LwB_YmLI5aUJM0MOvrWC8tsIt9QMO6v38vY-THzdYTDKV4kXsAPcyLJX0xa282SUUfV6ecEC4uF5rd27MnWdWbziCmLQ5f57OCxfbrbiDO6QK9HmgGf0tbTbW3NqHX6MLxC3c1Pnl5LB5ePE-hz5j99JyW9q8q-oalXXjDxHUutAdY9tvlIhwzraZ5Tq4ooBFkJoqmRvH2bI4MeTwLd6aCqyXuqbRp-a--kUBAr6M2SbBLLv5XGc-e5gKx3ejK0LQJyVXUT9-9CvnZGUkbiN4N06Hb4NA3DZgVqzPum5ZpDh-XSxEtCKKdvQEQKxvNmIpyE-nxk0LsQyF_2Li9oBoR59aJgYP4BeaQMyo5Na85NKPgQjJY44yA7lK7L6DNN8c5i_xttGi2z5IELJZFZ3o1l8wi.fws1Q7lUJ47VyCXKJ6yZsw.2d8a804de7efd84206e78623586fb53a7dfad3b249c3f419344c159e73c6d2ec"></div>
-                        </div>
+                    <div class="cf-turnstile" data-sitekey="0x4AAAAAAAiCoo-_IO_2E1zF" data-theme="light" data-size="normal" data-language="tr"></div>
+
                     </div>
                     <!---->
                 </div>

@@ -269,10 +269,30 @@ function openaasmenu(){
     $('#user-menu').css('transform', 'translateX(100%)');
     $('#sidenav-overlay').addClass('hidden');
   }
-  function stepupa(id){
-    $(".register__step").addClass("hidden");
-    $("#"+id).removeClass("hidden");
-     
- 
-    
+  function stepupa(id) {
+    // Tüm inputları kontrol et
+    let isValid = true;
+    $(".register__step input").each(function() {
+        if ($(this).val().trim() === "") {
+            // Eğer input boşsa, geçiş yapılmamalı ve invalid class eklenmeli
+            $(this).addClass("auth-input--invalid");
+            isValid = false;
+        } else {
+            // Input doluysa invalid class kaldırılmalı
+            $(this).removeClass("auth-input--invalid");
+        }
+    });
+
+    // Eğer tüm inputlar doluysa adımı göster
+    if (isValid) {
+        $(".register__step").addClass("hidden");
+        $("#" + id).removeClass("hidden");
     }
+}
+
+// Inputlar üzerinde yazılmaya başlandığında invalid class'ı kaldırma
+$(document).on('input', '.register__step input', function() {
+    if ($(this).val().trim() !== "") {
+        $(this).removeClass("auth-input--invalid");
+    }
+});

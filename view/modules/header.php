@@ -195,7 +195,15 @@ div:where(.swal2-icon).swal2-warning {
    </head>
    <body>
    <div data-v-3d4737d3="" class="loading-indicator loading-indicator--global"><img data-v-3d4737d3="" src="/assets/images/logo-loader.png" alt="MeritKing"> <div data-v-3d4737d3="" class="spinner"><div data-v-3d4737d3="" class="bounce1"></div> <div data-v-3d4737d3="" class="bounce2"></div> <div data-v-3d4737d3="" class="bounce3"></div></div></div>
-       
+       <script>
+         $(document).ready(function() {
+
+setTimeout(function() {
+    $('.loading-indicator.loading-indicator--global').addClass('hidden');
+}, 1000); // 2000 milisaniye, yani 2 saniye
+
+});
+       </script>
       <div id=layout--default class=guest>
          <header data-v-2b9b4072 class="app-header surface">
             <div data-v-2b9b4072 class=app-header__wrapper>

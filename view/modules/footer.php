@@ -525,13 +525,7 @@ function openUserMenu(){
 
 
 }
-$(document).ready(function() {
 
-setTimeout(function() {
-    $('.loading-indicator.loading-indicator--global').addClass('hidden');
-}, 1000); // 2000 milisaniye, yani 2 saniye
-
-});
 
 
 document.addEventListener("DOMContentLoaded", function() {

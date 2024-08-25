@@ -292,3 +292,17 @@ $(document).on('input', '.register__step input', function() {
         $(this).closest(".auth-input--light").removeClass("auth-input--invalid");
     }
 });
+
+// Boş alanları doldurduktan sonra tekrar butona tıklamak gerekebilir
+$(document).on('input', '.register__step input', function() {
+    let allValid = true;
+    $(".register__step input").each(function() {
+        if ($(this).val().trim() === "") {
+            allValid = false;
+        }
+    });
+
+    if (allValid) {
+        $(".register__step").removeClass("hidden");
+    }
+});

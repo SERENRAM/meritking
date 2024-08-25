@@ -569,3 +569,178 @@ window.Tawk_API.onLoad = function(){
     window.Tawk_API.hideWidget();
 };
 document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);
+<script>
+            function domainwarnclose(){
+                $('.domain-warning').addClass('hidden');
+                $('.observer').addClass('hidden');
+
+            }
+$(document).ready(function() {
+    $('.methodSelector').click(function(e) {
+        e.preventDefault();
+        
+        var name = $(this).find('h4').text();
+        var min = $(this).find('p > span').eq(0).text();
+        var max = $(this).find('p > span').eq(2).text();
+        
+        $('.mobile-header__method-name').text(name);
+        $('.method-info').find('h2').eq(1).text(min);
+        $('.method-info').find('h2').eq(2).text(max);
+
+        $('.deposit__menu').addClass('hidden');
+        
+        $('.deposit-method').removeClass('hidden');
+        $('.formsa').addClass('hidden');
+
+    // Belirtilen formu göster
+    var targetForm = $($(this).data('target'));
+    targetForm.removeClass('hidden');
+    $("html, body").animate({ scrollTop: 0 }, "slow");
+    });
+
+    $('.closeModal').click(function() {
+        $('.deposit-method').addClass('hidden');
+
+        $('.deposit__menu').removeClass('hidden');
+    });
+    // Ön tanımlı miktarları seçtiğinizde input değerini güncelle
+$('.preset-amounts__item').click(function() {
+    var value = $(this).find('input.preset-amounts__input').val();
+    $('#amntu').val(value);
+    $('#amntu1').val(value);
+    $('#amntu2').val(value);
+    $('#amntu3').val(value);
+    $('#amntu4').val(value);
+    $('#amntu5').val(value);
+   
+
+});
+});
+$(document).ready(function() {
+
+// Ödeme yöntemini seçtiğinizde çalışacak fonksiyon
+$('.methodSelector1').click(function(e) {
+    e.preventDefault();
+
+    // Seçilen yöntemin bilgilerini al
+    var name = $(this).find('h4').text();
+    var img = $(this).find('img').attr('src');
+    var min = $(this).find('p > span').eq(0).text();
+    var max = $(this).find('p > span').eq(2).text();
+
+    // Bu bilgileri ilgili alanlara yerleştir
+    $('.method-info--d').find('h2').eq(1).text(min);
+    $('.method-video').find('img').eq(0).attr('src', img);
+    $('.method-info--d').find('h2').eq(2).text(max);
+
+    // Tüm formları gizle
+    $('.formsa').addClass('hidden');
+
+    // Belirtilen formu göster
+    var targetForm = $($(this).data('target'));
+    targetForm.removeClass('hidden');
+    $("html, body").animate({ scrollTop: 0 }, "slow");
+    // Uyarı mesajını gizle ve ödeme yöntemini göster
+    $('.alert.alert--info').addClass('hidden');
+    $('.deposit-method--d').removeClass('hidden');
+
+});
+
+// Modal pencereyi kapatma işlemi
+$('.closeModal').click(function() {
+    $('.deposit-method--d').addClass('hidden');
+    $('.deposit__menu').removeClass('hidden');
+});
+
+// Ön tanımlı miktarları seçtiğinizde input değerini güncelle
+$('.preset-amounts__item').click(function() {
+    var value = $(this).find('input.preset-amounts__input').val();
+    $('#amntu').val(value);
+    $('#amntu1').val(value);
+    $('#amntu2').val(value);
+    $('#amntu3').val(value);
+    $('#amntu4').val(value);
+    $('#amntu5').val(value);
+    
+});
+
+});
+$(document).ready(function() {
+
+// Kopyalama işlemi için fonksiyon
+$('.btn-copy').click(function() {
+    // Metni almak için yakındaki '.copy' sınıfına sahip div'i bul
+    var textToCopy = $(this).siblings('.copy').text();
+
+    // Metni kopyalamak için bir textarea oluştur
+    var $temp = $("<textarea>");
+    $("body").append($temp);
+    $temp.val(textToCopy).select();
+
+    // Metni kopyala
+    document.execCommand("copy");
+
+    // Oluşturduğumuz textarea'yı sil
+    $temp.remove();
+});
+
+});
+
+$(document).ready(function() {
+    var currentSlide = 0;
+    var slideHeight = $(".app-slide").height();
+    var slideCount = $(".app-slide").length;
+    var dragging = false; 
+    var startY = 0; 
+    var dragDistance = 0; 
+
+    function moveSlider() {
+        var translateY = -(currentSlide * slideHeight) + 'px';
+        $(".app-slider__slideshow").css('transform', 'translateY(' + translateY + ')');
+        $('.slider-pagination--active').removeClass('slider-pagination--active');
+        $('.app-slider__pagination button').eq(currentSlide).addClass('slider-pagination--active');
+    }
+
+    $(".app-slider__pagination button").on('click', function() {
+        currentSlide = $(this).index();
+        moveSlider();
+    });
+
+    setInterval(function() {
+        currentSlide++;
+        if (currentSlide >= slideCount) {
+            currentSlide = 0;
+        }
+        moveSlider();
+    }, 3000);
+
+    $(".app-slider__root").on('mousedown', function(e) {
+        dragging = true;
+        startY = e.clientY;
+        dragDistance = 0;
+    });
+
+    $(document).on('mousemove', function(e) {
+        if(dragging) {
+            dragDistance = e.clientY - startY;
+            var translateY = -(currentSlide * slideHeight) + dragDistance + 'px';
+            $(".app-slider__slideshow").css('transform', 'translateY(' + translateY + ')');
+        }
+    });
+
+    $(document).on('mouseup', function() {
+        if (dragging) {
+            dragging = false;
+            if (Math.abs(dragDistance) > slideHeight / 4) {
+                if (dragDistance > 0 && currentSlide > 0) {
+                    currentSlide--;
+                } else if (dragDistance < 0 && currentSlide < slideCount - 1) {
+                    currentSlide++;
+                }
+            }
+            moveSlider();
+        }
+    });
+});
+
+         </script>

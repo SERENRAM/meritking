@@ -269,7 +269,10 @@ function openaasmenu(){
     // Tüm inputları kontrol et
     let isValid = true;
     $(".register__step input").each(function() {
-        if ($(this).val().trim() === "") {
+        const inputValue = $(this).val().trim();
+        console.log("Input değeri: ", inputValue); // Input değerini konsola yazdır
+
+        if (inputValue === "") {
             // Eğer input boşsa, auth-input--light class'ına auth-input--invalid class'ını ekle
             $(this).closest(".auth-input--light").addClass("auth-input--invalid");
             isValid = false;

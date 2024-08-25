@@ -1,3 +1,14 @@
+<style>
+   .app-header__slogan{
+      display: none;
+   }
+   .app-header__dropdown{
+      display: none;
+   }
+   .app-header__warning{
+      display: none;
+   }
+</style>
 <main>
    <div class="observer" style="top: 70px;"></div>
    <section data-v-342985b5="" class="sportsbook">

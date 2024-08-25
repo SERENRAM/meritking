@@ -222,11 +222,7 @@ $(document).ready(function() {
    $("#usermenux").removeClass("overlay-active--DdB_P");
    $("body").removeClass("ohidden");
  }
- window.addEventListener('load', function() {
-   setTimeout(function() {
-     document.getElementById('preloader').classList.add('hidden');
-   }, 2000); // 2 saniye sonra preloader'ı gizle
- });
+ 
  $(document).ready(function() {
     var header = $('#hdr-c');
     var appHeader = $('app-header');

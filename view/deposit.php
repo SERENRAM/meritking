@@ -10,9 +10,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
 if ($detect->isMobile()) {?>
 <main>
    <div class="observer" style="top: 70px;"></div>
-   <section data-v-9dc0d74a="" class="deposit">
-      <ul data-v-9dc0d74a="" class="deposit__menu">
-         <li data-v-9dc0d74a="" class="method-box">
+   <section data-v-3ed8b204="" class="deposit">
+      <ul data-v-3ed8b204="" class="deposit__menu">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#payfixDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/payfix.png" alt="PayFix" loading="lazy"> 
                <div>
@@ -23,7 +23,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/payox_papara.png" alt="Payox Papara" loading="lazy"> 
                <div>
@@ -34,7 +34,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_4_fast-havalesi-4.png?1697360457" alt="FAST HAVALESİ 4" loading="lazy"> 
                <div>
@@ -45,7 +45,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/FASTT_11_fast-havalesi-11.png?1697360457" alt="FAST HAVALESİ 11" loading="lazy"> 
                <div>
@@ -56,7 +56,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fastt_12_fast-havalesi-12.png?1697360457" alt="FAST HAVALESİ 12" loading="lazy"> 
                <div>
@@ -67,7 +67,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_7_ffast-havalesi-7.png?1697360457" alt="FAST HAVALESİ 7" loading="lazy"> 
                <div>
@@ -78,7 +78,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/trendhavale.png" alt="Fast Havalesi 2" loading="lazy"> 
                <div>
@@ -89,7 +89,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_14_fast-havalesi-14.png?1697360457" alt="FAST HAVALESİ 14" loading="lazy"> 
                <div>
@@ -100,7 +100,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_8_fast-havalesi-8.png?1697360457" alt="FAST HAVALESİ 8" loading="lazy"> 
                <div>
@@ -111,7 +111,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_3_fast-havalesi-3.png?1697360457" alt="FAST HAVALESİ 3" loading="lazy"> 
                <div>
@@ -122,7 +122,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_5_fast-havalesi-5.png?1697360457" alt="FAST HAVALESİ 5" loading="lazy"> 
                <div>
@@ -133,7 +133,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_9_fast-havalesi-9.png?1697360457" alt="FAST HAVALESİ 9" loading="lazy"> 
                <div>
@@ -144,7 +144,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_6_fast-havalesi-6.png?1697360457" alt="FAST HAVALESİ 6" loading="lazy"> 
                <div>
@@ -155,7 +155,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_13_fast-havalesi-13.png?1697360457" alt="FAST HAVALESİ 13" loading="lazy"> 
                <div>
@@ -166,7 +166,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/payox_bank.png" alt="OTOMATİK HIZLI HAVALE" loading="lazy"> 
                <div>
@@ -177,7 +177,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/hera_papara.png" alt="Hera Papara" loading="lazy"> 
                <div>
@@ -188,7 +188,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/allpapara.png" alt="Hızlı Papara" loading="lazy"> 
                <div>
@@ -199,7 +199,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/cepbank.png" alt="Cepbank" loading="lazy"> 
                <div>
@@ -210,7 +210,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/bank.png" alt="Bank havalesi" loading="lazy"> 
                <div>
@@ -221,7 +221,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/papara_vip_papara-vip.png?1697360457" alt="PAPARA VİP" loading="lazy"> 
                <div>
@@ -232,7 +232,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#mefeteDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/instapays_mft.png" alt="Instapays MeFeTE" loading="lazy"> 
                <div>
@@ -243,7 +243,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/turbohavalesi.png" alt="Turbo Havalesi" loading="lazy"> 
                <div>
@@ -254,7 +254,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#cryptoDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/jokerpays_crypto.png" alt="CoinPay" loading="lazy"> 
                <div>
@@ -265,7 +265,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box">
+         <li data-v-3ed8b204="" class="method-box">
             <a href="#" class="methodSelector" data-target="#cardDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/manypay.png" alt="KREDI KARTI" loading="lazy"> 
                <div>
@@ -278,7 +278,7 @@ if ($detect->isMobile()) {?>
          </li>
       </ul>
 
-<div data-v-f3995e34="" data-v-9dc0d74a="" class="deposit-method hidden">
+<div data-v-f3995e34="" data-v-3ed8b204="" class="deposit-method hidden">
    <header data-v-f3995e34="">
       <div data-v-f3995e34="" class="mobile-header">
          <a data-v-f3995e34="" href="deposit" class="mobile-header__back-button btn btn--dark btn--round btn--flex open active"><i data-v-533b5753="" data-v-f3995e34="" class="icon-chevron-left icon--md"></i></a> 
@@ -685,9 +685,9 @@ if ($detect->isMobile()) {?>
 </main>
 <?php }else{?>
    <main>
-   <section data-v-9dc0d74a="" class="deposit deposit--d">
-      <ul data-v-9dc0d74a="" class="deposit__menu">
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+   <section data-v-3ed8b204="" class="deposit deposit--d">
+      <ul data-v-3ed8b204="" class="deposit__menu">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#payfixDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/payfix.png" alt="PayFix" loading="lazy"> 
                <div>
@@ -698,7 +698,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/payox_papara.png" alt="Payox Papara" loading="lazy"> 
                <div>
@@ -709,7 +709,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_4_fast-havalesi-4.png?1697360381" alt="FAST HAVALESİ 4" loading="lazy"> 
                <div>
@@ -720,7 +720,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/FASTT_11_fast-havalesi-11.png?1697360381" alt="FAST HAVALESİ 11" loading="lazy"> 
                <div>
@@ -731,7 +731,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fastt_12_fast-havalesi-12.png?1697360381" alt="FAST HAVALESİ 12" loading="lazy"> 
                <div>
@@ -742,7 +742,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_7_ffast-havalesi-7.png?1697360381" alt="FAST HAVALESİ 7" loading="lazy"> 
                <div>
@@ -753,7 +753,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/trendhavale.png" alt="Fast Havalesi 2" loading="lazy"> 
                <div>
@@ -764,7 +764,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_14_fast-havalesi-14.png?1697360381" alt="FAST HAVALESİ 14" loading="lazy"> 
                <div>
@@ -775,7 +775,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_8_fast-havalesi-8.png?1697360381" alt="FAST HAVALESİ 8" loading="lazy"> 
                <div>
@@ -786,7 +786,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_3_fast-havalesi-3.png?1697360381" alt="FAST HAVALESİ 3" loading="lazy"> 
                <div>
@@ -797,7 +797,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_5_fast-havalesi-5.png?1697360381" alt="FAST HAVALESİ 5" loading="lazy"> 
                <div>
@@ -808,7 +808,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_9_fast-havalesi-9.png?1697360381" alt="FAST HAVALESİ 9" loading="lazy"> 
                <div>
@@ -819,7 +819,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fast_6_fast-havalesi-6.png?1697360381" alt="FAST HAVALESİ 6" loading="lazy"> 
                <div>
@@ -830,7 +830,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/fas_13_fast-havalesi-13.png?1697360381" alt="FAST HAVALESİ 13" loading="lazy"> 
                <div>
@@ -841,7 +841,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/payox_bank.png" alt="OTOMATİK HIZLI HAVALE" loading="lazy"> 
                <div>
@@ -852,7 +852,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/hera_papara.png" alt="Hera Papara" loading="lazy"> 
                <div>
@@ -863,7 +863,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/allpapara.png" alt="Hızlı Papara" loading="lazy"> 
                <div>
@@ -874,7 +874,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/cepbank.png" alt="Cepbank" loading="lazy"> 
                <div>
@@ -885,7 +885,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/bank.png" alt="Bank havalesi" loading="lazy"> 
                <div>
@@ -896,7 +896,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#paparaDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/common/theme/dark/providers/papara_vip_papara-vip.png?1697360381" alt="PAPARA VİP" loading="lazy"> 
                <div>
@@ -907,7 +907,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#mefeteDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/instapays_mft.png" alt="Instapays MeFeTE" loading="lazy"> 
                <div>
@@ -918,7 +918,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#havaleDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/turbohavalesi.png" alt="Turbo Havalesi" loading="lazy"> 
                <div>
@@ -929,7 +929,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#cryptoDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/jokerpays_crypto.png" alt="CoinPay" loading="lazy"> 
                <div>
@@ -940,7 +940,7 @@ if ($detect->isMobile()) {?>
                <i data-v-533b5753="" class="icon-play-circle icon--2x"></i>
             </a>
          </li>
-         <li data-v-9dc0d74a="" class="method-box method-box--d">
+         <li data-v-3ed8b204="" class="method-box method-box--d">
             <a href="#" class="methodSelector1" data-target="#cardDetails">
                <img src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/manypay.png" alt="KREDI KARTI" loading="lazy"> 
                <div>
@@ -952,8 +952,8 @@ if ($detect->isMobile()) {?>
             </a>
          </li>
       </ul>
-      <div data-v-9dc0d74a="" class="deposit__spacer"></div>
-<div data-v-f3995e34="" data-v-9dc0d74a="" class="deposit-method deposit-method--d hidden">
+      <div data-v-3ed8b204="" class="deposit__spacer"></div>
+<div data-v-f3995e34="" data-v-3ed8b204="" class="deposit-method deposit-method--d hidden">
    <header data-v-f3995e34="">
       <!----> 
       <div data-v-f3995e34="" class="method-video " style="
@@ -1350,11 +1350,11 @@ if ($detect->isMobile()) {?>
    </form>
 </div>
       <!----> 
-      <div data-v-9dc0d74a="" class="alert alert--info">
+      <div data-v-3ed8b204="" class="alert alert--info">
          <i data-v-533b5753="" class="icon-hexagon-exclamation icon--lg"></i> 
-         <div data-v-9dc0d74a="">
-            <h3 data-v-9dc0d74a="">Yönteminizi seçin</h3>
-            <p data-v-9dc0d74a="">Lütfen sol bölümdeki listemizden size uygun bir ödeme yöntemi seçin.</p>
+         <div data-v-3ed8b204="">
+            <h3 data-v-3ed8b204="">Yönteminizi seçin</h3>
+            <p data-v-3ed8b204="">Lütfen sol bölümdeki listemizden size uygun bir ödeme yöntemi seçin.</p>
          </div>
       </div>
    </section>

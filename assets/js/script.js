@@ -574,3 +574,15 @@ $(document).ready(function() {
         $('.app-header__username').toggleClass('active');
 
       }
+      function loginModal(){
+        $('#loginModal').toggleClass('hidden');
+      
+      }
+      function discountModal(){
+        $('#discountModal').toggleClass('hidden');
+      
+      }
+      function depositModal(){
+        $('#depositModal').toggleClass('hidden');
+      
+      }

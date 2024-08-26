@@ -685,18 +685,7 @@
       </div>
       <?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
 <script>
-  function loginModal(){
-  $('#loginModal').toggleClass('hidden');
-
-}
-function discountModal(){
-  $('#discountModal').toggleClass('hidden');
-
-}
-function depositModal(){
-  $('#depositModal').toggleClass('hidden');
-
-}
+  
 	 function guncelleniyor(){
       swal.fire('Hata!','Bu ödeme yöntemi güncelleniyor','warning');
    }

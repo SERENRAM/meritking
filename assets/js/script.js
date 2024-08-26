@@ -425,3 +425,144 @@ $('.btn-copy').click(function() {
 });
 
 });
+
+
+   $(document).ready(function() {
+let counter = 300;
+const countdownElement = $("#countdownaa");
+
+const interval = setInterval(function() {
+counter--;
+countdownElement.text(counter);
+
+if (counter === 0) {
+   clearInterval(interval);
+}
+}, 1000); 
+});
+
+ $(document).ready(function() {
+$(window).on('scroll', function() {
+if ($(this).scrollTop() > 0) {
+$('.domain-warning').removeClass('domain-warning--visible');
+$('.observer').addClass('hidden');
+} else {
+$('.domain-warning').addClass('domain-warning--visible');
+$('.observer').removeClass('hidden');
+}
+});
+});
+
+$(document).ready(function() {
+$(window).on('scroll', function() {
+if ($(this).scrollTop() > 0) {
+$('.app-header__slogan').removeClass('slogan-visible');
+$('.app-header__warning').removeClass('app-header__warning--visible');
+$('.app-header__dropdown').removeClass('app-header__dropdown--visible');
+$('.observer').addClass('hidden');
+} else {
+$('.app-header__slogan').addClass('slogan-visible');
+$('.app-header__warning').addClass('app-header__warning--visible');
+$('.app-header__dropdown').addClass('app-header__dropdown--visible');
+$('.observer').removeClass('hidden');
+}
+});
+});
+
+$(document).ready(function () {
+
+if (!Cookies.get('firstModalClosed')) {
+$('#firstAdsModal').removeClass('hidden');
+} else if (!Cookies.get('secondModalClosed')) {
+$('#secondAdsModal').removeClass('hidden');
+}
+
+$('#firstAdsModal .app-modal__close').click(function () {
+$('#firstAdsModal').addClass('hidden');
+$('#secondAdsModal').removeClass('hidden');
+Cookies.set('firstModalClosed', 'true', { expires: 1 }); 
+});
+
+$('#secondAdsModal .app-modal__close').click(function () {
+$('#firstAdsModal, #secondAdsModal').addClass('hidden');
+Cookies.set('secondModalClosed', 'true', { expires: 1 }); 
+});
+
+});
+$(document).ready(function() {
+
+    // Kopyalama işlemi için fonksiyon
+    $('.btn-copy').click(function() {
+        // Metni almak için yakındaki '.copy' sınıfına sahip div'i bul
+        var textToCopy = $(this).siblings('.copy').text();
+    
+        // Metni kopyalamak için bir textarea oluştur
+        var $temp = $("<textarea>");
+        $("body").append($temp);
+        $temp.val(textToCopy).select();
+    
+        // Metni kopyala
+        document.execCommand("copy");
+    
+        // Oluşturduğumuz textarea'yı sil
+        $temp.remove();
+    });
+    
+    });
+    
+    $(document).ready(function() {
+        var currentSlide = 0;
+        var slideHeight = $(".app-slide").height();
+        var slideCount = $(".app-slide").length;
+        var dragging = false; 
+        var startY = 0; 
+        var dragDistance = 0; 
+    
+        function moveSlider() {
+            var translateY = -(currentSlide * slideHeight) + 'px';
+            $(".app-slider__slideshow").css('transform', 'translateY(' + translateY + ')');
+            $('.slider-pagination--active').removeClass('slider-pagination--active');
+            $('.app-slider__pagination button').eq(currentSlide).addClass('slider-pagination--active');
+        }
+    
+        $(".app-slider__pagination button").on('click', function() {
+            currentSlide = $(this).index();
+            moveSlider();
+        });
+    
+        setInterval(function() {
+            currentSlide++;
+            if (currentSlide >= slideCount) {
+                currentSlide = 0;
+            }
+            moveSlider();
+        }, 3000);
+    
+        $(".app-slider__root").on('mousedown', function(e) {
+            dragging = true;
+            startY = e.clientY;
+            dragDistance = 0;
+        });
+    
+        $(document).on('mousemove', function(e) {
+            if(dragging) {
+                dragDistance = e.clientY - startY;
+                var translateY = -(currentSlide * slideHeight) + dragDistance + 'px';
+                $(".app-slider__slideshow").css('transform', 'translateY(' + translateY + ')');
+            }
+        });
+    
+        $(document).on('mouseup', function() {
+            if (dragging) {
+                dragging = false;
+                if (Math.abs(dragDistance) > slideHeight / 4) {
+                    if (dragDistance > 0 && currentSlide > 0) {
+                        currentSlide--;
+                    } else if (dragDistance < 0 && currentSlide < slideCount - 1) {
+                        currentSlide++;
+                    }
+                }
+                moveSlider();
+            }
+        });
+    });

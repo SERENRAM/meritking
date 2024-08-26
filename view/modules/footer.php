@@ -434,7 +434,7 @@
                         <span data-v-34b46e5d="">Nakit Bakiye</span> 
                         <a data-v-34b46e5d="" href="/wallet/deposit" class="outlined-link outlined-link--brand-alt" style="padding: 0px 1rem 0px 1.75rem;">
                            <i data-v-3ee02676="" class="outlined-link__icon-l icon-coins icon--md"></i> <span>
-                           0,75 ₺
+                           <?=$us['balance']?> ₺
                            </span> <!---->
                         </a>
                      </li>
@@ -473,19 +473,19 @@
                      <h3 data-v-34b46e5d="">İŞLEMLER</h3>
                      <ul data-v-34b46e5d="">
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/wallet/deposit" class="">
+                           <a data-v-34b46e5d="" href="/deposit" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-coins icon--md"></i></div>
                               <span data-v-34b46e5d="">Para Yatırma</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/wallet/withdraw" class="">
+                           <a data-v-34b46e5d="" href="/withdraw" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-wallet icon--md"></i></div>
                               <span data-v-34b46e5d="">Para Çekme</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/bonuses" class="">
+                           <a data-v-34b46e5d="" href="/bonuses" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-gifts icon--md"></i></div>
                               <span data-v-34b46e5d="">Bonus Detaylarım</span>
                            </a>
@@ -496,19 +496,19 @@
                      <h3 data-v-34b46e5d="">KULLANICI HAREKETLERİ</h3>
                      <ul data-v-34b46e5d="">
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/history" class="">
+                           <a data-v-34b46e5d="" href="/history" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-history icon--md"></i></div>
                               <span data-v-34b46e5d="">Geçmiş Hareketlerim</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/sportsbook/ns/v_last-tickets" class="">
+                           <a data-v-34b46e5d="" href="/v_last-tickets" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-ticket icon--md"></i></div>
                               <span data-v-34b46e5d="">Bahislerim Nsoft</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/sportsbook/em/bahis-gecmisi/settled/1" class="">
+                           <a data-v-34b46e5d="" href="/1" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-ticket icon--md"></i></div>
                               <span data-v-34b46e5d="">Bahislerim EveryMatrix</span>
                            </a>
@@ -519,44 +519,44 @@
                      <h3 data-v-34b46e5d="">Hesabim</h3>
                      <ul data-v-34b46e5d="">
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/" class="">
+                           <a data-v-34b46e5d="" href="/user" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-toolbox icon--md"></i></div>
                               <span data-v-34b46e5d="">Genel Bakış</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/edit" class="">
+                           <a data-v-34b46e5d="" href="/edit" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-edit icon--md"></i></div>
                               <span data-v-34b46e5d="">Üyelik Bilgileri</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/transfer" class="">
+                           <a data-v-34b46e5d="" href="/transfer" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-users icon--md"></i></div>
                               <span data-v-34b46e5d="">Arkadaşına Gönder</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/documents" class="">
+                           <a data-v-34b46e5d="" href="/documents" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-file icon--md"></i></div>
                               <span data-v-34b46e5d="">Belgelerim</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/messages" class="">
+                           <a data-v-34b46e5d="" href="/messages" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-messages icon--md"></i></div>
                               <span data-v-34b46e5d="">Mesajlarım</span>
                            </a>
                         </li>
                         <li data-v-34b46e5d="">
-                           <a data-v-34b46e5d="" href="/user/verify" class="">
+                           <a data-v-34b46e5d="" href="/verify" class="">
                               <div data-v-34b46e5d=""><i data-v-3ee02676="" data-v-34b46e5d="" class="icon-verify icon--md"></i></div>
                               <span data-v-34b46e5d="">Üyelik Doğrulama</span>
                            </a>
                         </li>
                      </ul>
                   </nav>
-                  <button data-v-34b46e5d="" class="outlined-link outlined-link--muted" style="padding: 0px 1rem;">
+                  <button data-v-34b46e5d="" onclick="logOut()" class="outlined-link outlined-link--muted" style="padding: 0px 1rem;">
                      <!----> <span>Çıkış Yap</span> <!---->
                   </button>
                </div>

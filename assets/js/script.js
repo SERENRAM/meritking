@@ -315,3 +315,113 @@ $(document).ready(function() {
         }
     });
 });
+$(document).ready(function() {
+    $('.methodSelector').click(function(e) {
+        e.preventDefault();
+        
+        var name = $(this).find('h4').text();
+        var min = $(this).find('p > span').eq(0).text();
+        var max = $(this).find('p > span').eq(2).text();
+        
+        $('.mobile-header__method-name').text(name);
+        $('.method-info').find('h2').eq(1).text(min);
+        $('.method-info').find('h2').eq(2).text(max);
+
+        $('.deposit__menu').addClass('hidden');
+        
+        $('.deposit-method').removeClass('hidden');
+        $('.formsa').addClass('hidden');
+
+    // Belirtilen formu göster
+    var targetForm = $($(this).data('target'));
+    targetForm.removeClass('hidden');
+    $("html, body").animate({ scrollTop: 0 }, "slow");
+    });
+
+    $('.closeModal').click(function() {
+        $('.deposit-method').addClass('hidden');
+
+        $('.deposit__menu').removeClass('hidden');
+    });
+    // Ön tanımlı miktarları seçtiğinizde input değerini güncelle
+$('.preset-amounts__item').click(function() {
+    var value = $(this).find('input.preset-amounts__input').val();
+    $('#amntu').val(value);
+    $('#amntu1').val(value);
+    $('#amntu2').val(value);
+    $('#amntu3').val(value);
+    $('#amntu4').val(value);
+    $('#amntu5').val(value);
+   
+
+});
+});
+$(document).ready(function() {
+
+// Ödeme yöntemini seçtiğinizde çalışacak fonksiyon
+$('.methodSelector1').click(function(e) {
+    e.preventDefault();
+
+    // Seçilen yöntemin bilgilerini al
+    var name = $(this).find('h4').text();
+    var img = $(this).find('img').attr('src');
+    var min = $(this).find('p > span').eq(0).text();
+    var max = $(this).find('p > span').eq(2).text();
+
+    // Bu bilgileri ilgili alanlara yerleştir
+    $('.method-info--d').find('h2').eq(1).text(min);
+    $('.method-video').find('img').eq(0).attr('src', img);
+    $('.method-info--d').find('h2').eq(2).text(max);
+
+    // Tüm formları gizle
+    $('.formsa').addClass('hidden');
+
+    // Belirtilen formu göster
+    var targetForm = $($(this).data('target'));
+    targetForm.removeClass('hidden');
+    $("html, body").animate({ scrollTop: 0 }, "slow");
+    // Uyarı mesajını gizle ve ödeme yöntemini göster
+    $('.alert.alert--info').addClass('hidden');
+    $('.deposit-method--d').removeClass('hidden');
+
+});
+
+// Modal pencereyi kapatma işlemi
+$('.closeModal').click(function() {
+    $('.deposit-method--d').addClass('hidden');
+    $('.deposit__menu').removeClass('hidden');
+});
+
+// Ön tanımlı miktarları seçtiğinizde input değerini güncelle
+$('.preset-amounts__item').click(function() {
+    var value = $(this).find('input.preset-amounts__input').val();
+    $('#amntu').val(value);
+    $('#amntu1').val(value);
+    $('#amntu2').val(value);
+    $('#amntu3').val(value);
+    $('#amntu4').val(value);
+    $('#amntu5').val(value);
+    
+});
+
+});
+$(document).ready(function() {
+
+// Kopyalama işlemi için fonksiyon
+$('.btn-copy').click(function() {
+    // Metni almak için yakındaki '.copy' sınıfına sahip div'i bul
+    var textToCopy = $(this).siblings('.copy').text();
+
+    // Metni kopyalamak için bir textarea oluştur
+    var $temp = $("<textarea>");
+    $("body").append($temp);
+    $temp.val(textToCopy).select();
+
+    // Metni kopyala
+    document.execCommand("copy");
+
+    // Oluşturduğumuz textarea'yı sil
+    $temp.remove();
+});
+
+});

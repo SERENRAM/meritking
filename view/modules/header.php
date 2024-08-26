@@ -243,7 +243,7 @@ setTimeout(function() {
                <?php if(isset($us['id'])) {?>
                <div data-v-2b9b4072="" class="app-header__user"><a data-v-2b9b4072="" href="/wallet/deposit" class="outlined-link outlined-link--primary outlined-link--xl" style="padding: 0px 2.25rem;"><i data-v-3ee02676="" class="outlined-link__icon-l icon-coins icon--md"></i> <span>
                <?=$us['balance']?> ₺
-               <i data-v-3ee02676="" data-v-2b9b4072="" class="deposit-icon icon-plus-circle icon--lg"></i></span> <i data-v-3ee02676="" class="outlined-link__icon-r icon-placeholder icon--md"></i></a> <button data-v-2b9b4072="" class="outlined-link app-header__username outlined-link--gradient outlined-link--xl" style="padding: 0px 1.5rem 0px 2.25rem;"><i data-v-3ee02676="" class="outlined-link__icon-l icon-user icon--md"></i> <span>
+               <i data-v-3ee02676="" data-v-2b9b4072="" class="deposit-icon icon-plus-circle icon--lg"></i></span> <i data-v-3ee02676="" class="outlined-link__icon-r icon-placeholder icon--md"></i></a> <button  onclick="openUserMenu()" data-v-2b9b4072="" class="outlined-link app-header__username outlined-link--gradient outlined-link--xl" style="padding: 0px 1.5rem 0px 2.25rem;"><i data-v-3ee02676="" class="outlined-link__icon-l icon-user icon--md"></i> <span>
                   <?=$us['login']?>
                </span> <!----></button></div>
                <?php }else{?>

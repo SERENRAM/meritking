@@ -1,4 +1,4 @@
-<main>
+<main onclick="loginorp1ay()">
    <div class="observer" style="top: 70px;"></div>
    <section data-v-3c010eb6="" class="slot">
       <header data-v-3c010eb6="">
@@ -15,7 +15,7 @@
                <ul data-v-ca12cf2e="">
                   <li data-v-ca12cf2e="" data-pos="top" class="winners__observer"></li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs15godsofwar/13226/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13226/thumbnail.png" alt="Zeus vs Hades - Gods of War"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13226/thumbnail.png" alt="Zeus vs Hades - Gods of War"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">**AGALAROV</h4>
                         <h3 data-v-ca12cf2e="">₺425.275.000</h3>
@@ -27,7 +27,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs10bbhas/13071/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13071/thumbnail.gif" alt="Big Bass - Hold &amp; Spinner"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13071/thumbnail.gif" alt="Big Bass - Hold &amp; Spinner"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">NUR***</h4>
                         <h3 data-v-ca12cf2e="">₺295.650.000</h3>
@@ -39,7 +39,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20meritkingsr/12897/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/12897/thumbnail.jpg" alt="MeritKing Sugar Rush"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/12897/thumbnail.jpg" alt="MeritKing Sugar Rush"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">arda**10</h4>
                         <h3 data-v-ca12cf2e="">₺250.000.000</h3>
@@ -51,7 +51,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20mkprincess/17445/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17445/thumbnail.jpg" alt="MeritKing Princess"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17445/thumbnail.jpg" alt="MeritKing Princess"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">agaoglu34**</h4>
                         <h3 data-v-ca12cf2e="">₺250.000.000</h3>
@@ -63,7 +63,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20olympmerit/9585/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/9585/thumbnail.png" alt="Merit King of Olympus"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/9585/thumbnail.png" alt="Merit King of Olympus"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">malierbil**</h4>
                         <h3 data-v-ca12cf2e="">₺250.000.000</h3>
@@ -75,7 +75,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs15godsofwar/13226/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13226/thumbnail.png" alt="Zeus vs Hades - Gods of War"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13226/thumbnail.png" alt="Zeus vs Hades - Gods of War"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">byomer***</h4>
                         <h3 data-v-ca12cf2e="">₺225.720.000</h3>
@@ -87,7 +87,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20fruitswx/17918/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17918/thumbnail.gif" alt="Sweet Bonanza 1000"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17918/thumbnail.gif" alt="Sweet Bonanza 1000"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">onurse***</h4>
                         <h3 data-v-ca12cf2e="">₺207.312.500</h3>
@@ -99,7 +99,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20portals/17223/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17223/thumbnail.png" alt="Fire Portals"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17223/thumbnail.png" alt="Fire Portals"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">vedases***</h4>
                         <h3 data-v-ca12cf2e="">₺175.498.750</h3>
@@ -111,7 +111,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20cleocatra/8970/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/8970/thumbnail.png" alt="Cleocatra"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/8970/thumbnail.png" alt="Cleocatra"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">yesim32***</h4>
                         <h3 data-v-ca12cf2e="">₺175.000.000</h3>
@@ -123,7 +123,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vswaysincwnd/14015/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/14015/thumbnail.png" alt="Gold Oasis"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/14015/thumbnail.png" alt="Gold Oasis"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">canan85***</h4>
                         <h3 data-v-ca12cf2e="">₺145.980.000</h3>
@@ -135,7 +135,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20mustanggld2/8690/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/8690/thumbnail.png" alt="Clover Gold"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/8690/thumbnail.png" alt="Clover Gold"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">C?nar**</h4>
                         <h3 data-v-ca12cf2e="">₺146.880</h3>
@@ -147,7 +147,7 @@
                      </button>
                   </li>
                   <li data-v-ca12cf2e="" class="winners__item">
-                     <a data-v-ca12cf2e="" href="/play/slot/pragmaticplay/vs20mustanggld2/8690/0" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/8690/thumbnail.png" alt="Clover Gold"></a> 
+                     <a data-v-ca12cf2e="" href="#" class="winners__game-img"><img data-v-ca12cf2e="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/8690/thumbnail.png" alt="Clover Gold"></a> 
                      <div data-v-ca12cf2e="" class="winners__detail">
                         <h4 data-v-ca12cf2e="">C?nar**</h4>
                         <h3 data-v-ca12cf2e="">₺146.880</h3>
@@ -177,7 +177,7 @@
                <div class="teaser__content">
                   <ul data-v-40644173="" class="home-merit-teaser">
                      <li data-v-40644173="">
-                        <a data-v-40644173="" href="/play/slot/pragmaticplay/vs10bbbmerit/18976/0">
+                        <a data-v-40644173="" href="#">
                            <div data-v-40644173="">
                               <div data-v-40644173="">
                                  <img data-v-40644173="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18976/background.gif" alt="Merit King Big Bass Bonanza"> <!---->
@@ -187,7 +187,7 @@
                         </a>
                      </li>
                      <li data-v-40644173="">
-                        <a data-v-40644173="" href="/play/slot/pragmaticplay/vs20olympmerit/9585/0">
+                        <a data-v-40644173="" href="#">
                            <div data-v-40644173="">
                               <div data-v-40644173="">
                                  <img data-v-40644173="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/9585/background.gif" alt="Merit King of Olympus"> <!---->
@@ -197,7 +197,7 @@
                         </a>
                      </li>
                      <li data-v-40644173="">
-                        <a data-v-40644173="" href="/play/slot/pragmaticplay/vs20mkprincess/17445/0">
+                        <a data-v-40644173="" href="#">
                            <div data-v-40644173="">
                               <div data-v-40644173="">
                                  <img data-v-40644173="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17445/background.gif" alt="MeritKing Princess"> <!---->
@@ -207,7 +207,7 @@
                         </a>
                      </li>
                      <li data-v-40644173="">
-                        <a data-v-40644173="" href="/play/slot/softswiss/softswiss-MeritkingBonanza/16784/0">
+                        <a data-v-40644173="" href="#">
                            <div data-v-40644173="">
                               <div data-v-40644173="">
                                  <img data-v-40644173="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/16784/background.gif" alt="Meritking Bonanza"> <!---->
@@ -217,7 +217,7 @@
                         </a>
                      </li>
                      <li data-v-40644173="">
-                        <a data-v-40644173="" href="/play/slot/pragmaticplay/vs20sweetbmerit/3866/0">
+                        <a data-v-40644173="" href="#">
                            <div data-v-40644173="">
                               <div data-v-40644173="">
                                  <img data-v-40644173="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/3866/background.gif" alt="MeritKing Sweet Bonanza"> <!---->
@@ -227,7 +227,7 @@
                         </a>
                      </li>
                      <li data-v-40644173="">
-                        <a data-v-40644173="" href="/play/slot/softswiss/spnmnl-PickAMeritFruit/20691/0">
+                        <a data-v-40644173="" href="#">
                            <div data-v-40644173="">
                               <div data-v-40644173="">
                                  <img data-v-40644173="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/spinomenal/20691/background.gif" alt="Pick a Merit Fruit"> <!---->
@@ -260,7 +260,7 @@
                <div data-v-57ba45bc="" class="home-slot-teaser">
                   <ul data-v-57ba45bc="">
                      <li data-v-08f08a18="" data-v-57ba45bc="" class="slot-promo-game">
-                        <a data-v-08f08a18="" href="/play/slot/pragmaticplay/vs20olympmerit/9585/0">
+                        <a data-v-08f08a18="" href="#">
                            <div data-v-08f08a18="" class="slot-promo-game__root">
                               <img data-v-08f08a18="" src="https://d3ejb2l5e3bvmc.cloudfront.net/meritking/teaser/vs20olympmerit.gif?v=2" alt="Merit King of Olympus"> 
                               <div data-v-08f08a18="" class="game__flag"></div>
@@ -270,7 +270,7 @@
                         </a>
                      </li>
                      <li data-v-08f08a18="" data-v-57ba45bc="" class="slot-promo-game">
-                        <a data-v-08f08a18="" href="/play/slot/softswiss/spnmnl-PickAMeritFruit/20691/0">
+                        <a data-v-08f08a18="" href="#">
                            <div data-v-08f08a18="" class="slot-promo-game__root">
                               <img data-v-08f08a18="" src="https://d3ejb2l5e3bvmc.cloudfront.net/meritking/teaser/pickameritfruit.gif?v=2" alt="Pick a Merit Fruit"> 
                               <div data-v-08f08a18="" class="game__flag"></div>
@@ -282,7 +282,7 @@
                   </ul>
                   <ul data-v-57ba45bc="">
                      <li data-v-2b6d08fe="" data-v-57ba45bc="" class="slot-game">
-                        <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20fruitsw/61/0">
+                        <a data-v-2b6d08fe="" href="#">
                            <div data-v-2b6d08fe="" class="slot-game__img-container">
                               <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/61/background.gif" alt="Sweet Bonanza"> 
                               <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -295,7 +295,7 @@
                         </button>
                      </li>
                      <li data-v-2b6d08fe="" data-v-57ba45bc="" class="slot-game">
-                        <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olympx/16362/0">
+                        <a data-v-2b6d08fe="" href="#">
                            <div data-v-2b6d08fe="" class="slot-game__img-container">
                               <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/16362/background.gif" alt="Gates of Olympus 1000"> 
                               <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -308,7 +308,7 @@
                         </button>
                      </li>
                      <li data-v-2b6d08fe="" data-v-57ba45bc="" class="slot-game">
-                        <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbhas/13071/0">
+                        <a data-v-2b6d08fe="" href="#">
                            <div data-v-2b6d08fe="" class="slot-game__img-container">
                               <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13071/background.gif" alt="Big Bass - Hold &amp; Spinner"> 
                               <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -321,7 +321,7 @@
                         </button>
                      </li>
                      <li data-v-2b6d08fe="" data-v-57ba45bc="" class="slot-game">
-                        <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20sugarrushx/17060/0">
+                        <a data-v-2b6d08fe="" href="#">
                            <div data-v-2b6d08fe="" class="slot-game__img-container">
                               <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17060/background.gif" alt="Sugar Rush 1000"> 
                               <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -334,7 +334,7 @@
                         </button>
                      </li>
                      <li data-v-2b6d08fe="" data-v-57ba45bc="" class="slot-game">
-                        <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20dede/16776/0">
+                        <a data-v-2b6d08fe="" href="#">
                            <div data-v-2b6d08fe="" class="slot-game__img-container">
                               <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/16776/background.gif" alt="Saray Rüyası"> 
                               <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -347,7 +347,7 @@
                         </button>
                      </li>
                      <li data-v-2b6d08fe="" data-v-57ba45bc="" class="slot-game">
-                        <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20starlightx/14158/0">
+                        <a data-v-2b6d08fe="" href="#">
                            <div data-v-2b6d08fe="" class="slot-game__img-container">
                               <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/14158/background.gif" alt="PStarlight Princess 1000"> 
                               <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -1013,9 +1013,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18976/thumbnail.png" alt="Merit King Big Bass Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbbmerit/18976/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbbmerit/18976/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1030,9 +1030,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/spinomenal/20691/thumbnail.webp" alt="Pick a Merit Fruit"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-PickAMeritFruit/20691/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-PickAMeritFruit/20691/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1047,9 +1047,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17918/thumbnail.gif" alt="Sweet Bonanza 1000"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20fruitswx/17918/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20fruitswx/17918/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1064,9 +1064,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/3866/thumbnail.png" alt="MeritKing Sweet Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20sweetbmerit/3866/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20sweetbmerit/3866/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1081,9 +1081,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/9585/thumbnail.png" alt="Merit King of Olympus"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olympmerit/9585/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olympmerit/9585/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1098,9 +1098,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/11776/thumbnail.png" alt="Burning Chilli X"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-BurningChilliX/11776/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-BurningChilliX/11776/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1115,9 +1115,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/microgaming/17041/thumbnail.png" alt="Merit King Almighty Zeus"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_meritKingAlmightyZeus/17041/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_meritKingAlmightyZeus/17041/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1132,9 +1132,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/16784/thumbnail.png" alt="Meritking Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-MeritkingBonanza/16784/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-MeritkingBonanza/16784/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1149,9 +1149,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/20183/thumbnail.png" alt="Koi Pond"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs243koipond/20183/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs243koipond/20183/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1166,9 +1166,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/slotmatrix/17572/thumbnail.jpg" alt="Mythological Mayhem Supreme Streaks"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/slotmatrix/mythologicalmayhemsupremestreaks_rgs_matrix/17572/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/slotmatrix/mythologicalmayhemsupremestreaks_rgs_matrix/17572/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1183,9 +1183,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/19081/thumbnail.png" alt="Sweet Bomb Drop"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20swbombdrop/19081/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20swbombdrop/19081/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1200,9 +1200,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/8718/thumbnail.png" alt="Hot Hot MeritKing"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGHotHotMeritKing/8718/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGHotHotMeritKing/8718/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1217,9 +1217,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/spinomenal/13115/thumbnail.png" alt="Merit King"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-MeritKing/13115/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-MeritKing/13115/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1230,7 +1230,7 @@
                </button>
             </li>
             <li data-v-2b6d08fe="" data-v-0f563d6e="" class="slot-game">
-               <a data-v-2b6d08fe="" href="/play/slot/softswiss/egt-100BulkyFruits/11657/0">
+               <a data-v-2b6d08fe="" href="#">
                   <div data-v-2b6d08fe="" class="slot-game__img-container">
                      <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/egt/11657/thumbnail.jpg" alt="100 Bulky Fruits"> 
                      <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -1247,9 +1247,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/netgame/19652/thumbnail.webp" alt="Charming Gold: Hold 'n' Link"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/netgame-CharmingGoldHoldnLink/19652/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/netgame-CharmingGoldHoldnLink/19652/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1264,9 +1264,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/kalamba/16219/thumbnail.png" alt="Diamond Supreme Hold and Win"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/16219/16219/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/16219/16219/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1281,9 +1281,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/reevo/18986/thumbnail.png" alt="Bullfighting Champion"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/18986/18986/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/18986/18986/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1298,9 +1298,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/16362/thumbnail.gif" alt="Gates of Olympus 1000"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olympx/16362/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olympx/16362/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1315,9 +1315,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/9554/thumbnail.png" alt="Meritking Million"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-MeritkingMillion/9554/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-MeritkingMillion/9554/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1332,9 +1332,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/apparat/20354/thumbnail.webp" alt="100 Sevens"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/apparat-100Sevens/20354/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/apparat-100Sevens/20354/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1349,9 +1349,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17445/thumbnail.jpg" alt="MeritKing Princess"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20mkprincess/17445/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20mkprincess/17445/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1366,9 +1366,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/20685/thumbnail.png" alt="Pure Sweet"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20puresweeth/20685/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20puresweeth/20685/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1383,9 +1383,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/18483/thumbnail.png" alt="Dragon Age Hold &amp; Win"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-DragonAge/18483/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-DragonAge/18483/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1400,9 +1400,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/spinomenal/19083/thumbnail.png" alt="Olympian Throne"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-OlympianThrone/19083/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-OlympianThrone/19083/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1417,9 +1417,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/20864/thumbnail.jpg" alt="Haunted Harbor"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGHauntedHarbor/20864/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGHauntedHarbor/20864/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1434,9 +1434,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/apparat/20376/thumbnail.webp" alt="Jack Potter &amp; The Book of Teos"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/apparat-JackPotterTheBookofTeos/20376/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/apparat-JackPotterTheBookofTeos/20376/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1451,9 +1451,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/booming-games/20522/thumbnail.webp" alt="TNT Bonanza 2"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/659fbf8378185700011a2b2b/20522/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/659fbf8378185700011a2b2b/20522/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1468,9 +1468,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/microgaming/19220/thumbnail.png" alt="Zeus Spin Royal"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_zeusSpinRoyal/19220/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_zeusSpinRoyal/19220/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1485,9 +1485,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/19219/thumbnail.png" alt="Bow of Artemis"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20gembondx/19219/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20gembondx/19219/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1502,9 +1502,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/booming-games/17941/thumbnail.png" alt="Ultimate Hold 'N' Win"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/652504bcf33db2000161cfd3/17941/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/652504bcf33db2000161cfd3/17941/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1519,9 +1519,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/vibragaming/18452/thumbnail.jpg" alt="Paddy's Cash"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/vibragaming-PaddysCash/18452/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/vibragaming-PaddysCash/18452/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1536,9 +1536,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/16991/thumbnail.png" alt="Plinko XY"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-PlinkoXY/16991/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-PlinkoXY/16991/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1553,9 +1553,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/17646/thumbnail.jpg" alt="Arctic Hunt"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGArcticHunt/17646/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGArcticHunt/17646/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1570,9 +1570,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/19630/thumbnail.png" alt="Oly"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olyh/19630/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olyh/19630/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1587,9 +1587,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/kalamba/14197/thumbnail.png" alt="Diamond Bounty 7s Hold and Win"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/14197/14197/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/14197/14197/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1604,9 +1604,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/slotmatrix/17942/thumbnail.png" alt="Hot Hot Balloons"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/slotmatrix/hothotballoons_rgs_matrix/17942/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/slotmatrix/hothotballoons_rgs_matrix/17942/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1621,9 +1621,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/gamingcorps/19972/thumbnail.webp" alt="Lobster Hot Pot"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/gamingcorps-LobsterHotPot/19972/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/gamingcorps-LobsterHotPot/19972/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1638,9 +1638,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18464/thumbnail.png" alt="5 Rabbits Megaways"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswaysrabbits/18464/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswaysrabbits/18464/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1655,9 +1655,9 @@
                   <img data-v-2b6d08fe="" src="https://aggr-static-prod.reevotech.com/media/images/slots/small/ep/ep-candy-craze.png" alt="Candy Craze"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/18171/18171/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/18171/18171/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1672,9 +1672,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/microgaming/17490/thumbnail.png" alt="Lucky Little Dragons"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_luckyLittleDragons/17490/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_luckyLittleDragons/17490/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1689,9 +1689,9 @@
                   <img data-v-2b6d08fe="" src="https://aggr-static-prod.reevotech.com/media/images/slots/small/ep/ep-ocean-catch-bonus-buy.png" alt="Ocean Catch Bonus Buy"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/18172/18172/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/18172/18172/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1706,9 +1706,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/19359/thumbnail.png" alt="Slot Mania Heist Megaways"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswayssmheist/19359/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswayssmheist/19359/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1723,9 +1723,9 @@
                   <img data-v-2b6d08fe="" src="https://play.rkbh4483.com/games/5e732986ba03bd00171b05bb/v1.6.25/logos/en/desktop.png" alt="Burning Classics"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/5e732986ba03bd00171b05bb/17341/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/5e732986ba03bd00171b05bb/17341/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1740,9 +1740,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/slotmatrix/18544/thumbnail.jpg" alt="Cookie Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/slotmatrix/cookiebonanza_rgs_matrix/18544/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/slotmatrix/cookiebonanza_rgs_matrix/18544/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1757,9 +1757,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/gamzix/19085/thumbnail.png" alt="Sticky Coin: Hold The Spin"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/gamzix-StickyCoinHoldTheSpin/19085/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/gamzix-StickyCoinHoldTheSpin/19085/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1774,9 +1774,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/slotmatrix/17518/thumbnail.jpg" alt="Joker Classic"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/slotmatrix/jokerclassic_rgs_matrix/17518/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/slotmatrix/jokerclassic_rgs_matrix/17518/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1791,9 +1791,9 @@
                   <img data-v-2b6d08fe="" src="https://play.rkbh4483.com/games/637cf755a784e30001057f18/v1.0.70/logos/en/desktop.png" alt="Classic Fantastic"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/637cf755a784e30001057f18/17279/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/637cf755a784e30001057f18/17279/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1808,9 +1808,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18465/thumbnail.png" alt="Slot Mania Mahjong"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20smmahjong/18465/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20smmahjong/18465/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1825,9 +1825,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/6530/thumbnail.png" alt="Aztec Magic Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-AztecMagicBonanza/6530/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-AztecMagicBonanza/6530/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1842,9 +1842,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/playngo/18871/thumbnail.webp" alt="Moon Princess 100"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/playngo/moonprincess100/18871/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/playngo/moonprincess100/18871/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1859,9 +1859,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/reevo/19369/thumbnail.png" alt="Astro Reels"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/19369/19369/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/19369/19369/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1876,9 +1876,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18437/thumbnail.png" alt="Big Bass Mission Fishin’"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbfmission/18437/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbfmission/18437/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1893,9 +1893,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18545/thumbnail.png" alt="Sweet Kingdom"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20clustcol/18545/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20clustcol/18545/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1906,7 +1906,7 @@
                </button>
             </li>
             <li data-v-2b6d08fe="" data-v-0f563d6e="" class="slot-game">
-               <a data-v-2b6d08fe="" href="/play/slot/pgsoft/1623475/17933/0">
+               <a data-v-2b6d08fe="" href="#">
                   <div data-v-2b6d08fe="" class="slot-game__img-container">
                      <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/17933/thumbnail.jpg" alt="Anubis Wrath"> 
                      <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
@@ -1923,9 +1923,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/17921/thumbnail.jpg" alt="Totem Warrior"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGTotemWarrior/17921/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGTotemWarrior/17921/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1940,9 +1940,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17934/thumbnail.png" alt="Slot Mania Saiyan"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20smsayan/17934/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20smsayan/17934/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1953,7 +1953,7 @@
                </button>
             </li>
             <li data-v-2b6d08fe="" data-v-0f563d6e="" class="slot-game">
-               <a data-v-2b6d08fe="" href="/play/slot/fastspin/S-NR01/19879/0">
+               <a data-v-2b6d08fe="" href="#">
                   <div data-v-2b6d08fe="" class="slot-game__img-container">
                      <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/fastspin/19879/thumbnail.jpg" alt="Neko Riches"> 
                      <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -1970,9 +1970,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/reevo/17247/thumbnail.png" alt="Mackereels"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/17247/17247/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/17247/17247/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -1987,9 +1987,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17935/thumbnail.gif" alt="Fortune Ace"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs1024fortune/17935/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs1024fortune/17935/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2004,9 +2004,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/16776/thumbnail.gif" alt="Saray Rüyası"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20dede/16776/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20dede/16776/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2021,9 +2021,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/16636/thumbnail.png" alt="Fruity Mayan"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGFruityMayan/16636/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGFruityMayan/16636/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2038,9 +2038,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18982/thumbnail.png" alt="Slot Mania Gemstone"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs5smgem/18982/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs5smgem/18982/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2055,9 +2055,9 @@
                   <img data-v-2b6d08fe="" src="https://play.rkbh4483.com/games/5fca4cf5efcba9001685f940/v1.5.59/logos/en/desktop.png" alt="Buffalo Hold And Win"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/5fca4cf5efcba9001685f940/17328/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/5fca4cf5efcba9001685f940/17328/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2072,9 +2072,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/17456/thumbnail.jpg" alt="Golden Taj Mahal"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGGoldenTajMahal/17456/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGGoldenTajMahal/17456/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2089,9 +2089,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18604/thumbnail.png" alt="Kill or Die"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs40killdieh/18604/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs40killdieh/18604/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2106,9 +2106,9 @@
                   <img data-v-2b6d08fe="" src="https://play.rkbh4483.com/games/62fe444a6db4f70014a6342d/v0.5.294/logos/en/desktop.png" alt="TNT Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/62fe444a6db4f70014a6342d/17290/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/62fe444a6db4f70014a6342d/17290/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2119,7 +2119,7 @@
                </button>
             </li>
             <li data-v-2b6d08fe="" data-v-0f563d6e="" class="slot-game">
-               <a data-v-2b6d08fe="" href="/play/slot/pgsoft/1492288/17447/0">
+               <a data-v-2b6d08fe="" href="#">
                   <div data-v-2b6d08fe="" class="slot-game__img-container">
                      <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/17447/thumbnail.jpg" alt="Pinata Wins"> 
                      <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
@@ -2136,9 +2136,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17891/thumbnail.png" alt="Starlight Princess Pachi"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswaysjapan/17891/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswaysjapan/17891/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2153,9 +2153,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/altente/19808/thumbnail.webp" alt="Hot Girls"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-HotGirls/19808/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-HotGirls/19808/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2170,9 +2170,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/61/thumbnail.gif" alt="Sweet Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20fruitsw/61/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20fruitsw/61/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2187,9 +2187,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/19079/thumbnail.png" alt="Bubble Pop"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bblpop/19079/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bblpop/19079/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2204,9 +2204,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/booming-games/17899/thumbnail.png" alt="The Chillies"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/64ba7fc8ef3f980001fbab96/17899/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/64ba7fc8ef3f980001fbab96/17899/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2221,9 +2221,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/microgaming/17469/thumbnail.jpg" alt="Queen of Cairo"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_queenOfCairo/17469/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_queenOfCairo/17469/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2238,9 +2238,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/5272/thumbnail.png" alt="Bonanza Billion"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-BonanzaBillion/5272/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-BonanzaBillion/5272/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2255,9 +2255,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/18534/thumbnail.png" alt="Hand of Midas 2"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20midas2/18534/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20midas2/18534/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2272,9 +2272,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/slotmatrix/17512/thumbnail.jpg" alt="Munition Mine"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/slotmatrix/munitionmine_rgs_matrix/17512/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/slotmatrix/munitionmine_rgs_matrix/17512/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2289,9 +2289,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/16936/thumbnail.jpg" alt="Atomic Kittens"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGAtomicKittens/16936/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGAtomicKittens/16936/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2306,9 +2306,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/1089/thumbnail.png" alt="Fruit Million"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-FruitMillion/1089/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-FruitMillion/1089/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2323,9 +2323,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17060/thumbnail.gif" alt="Sugar Rush 1000"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20sugarrushx/17060/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20sugarrushx/17060/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2340,9 +2340,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/16400/thumbnail.png" alt="Wild Tiger"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-WildTiger/16400/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-WildTiger/16400/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2357,9 +2357,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/5men/19099/thumbnail.webp" alt="5 Juicy Hot"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/5men-5JuicyHot/19099/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/5men-5JuicyHot/19099/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2370,7 +2370,7 @@
                </button>
             </li>
             <li data-v-2b6d08fe="" data-v-0f563d6e="" class="slot-game">
-               <a data-v-2b6d08fe="" href="/play/slot/pgsoft/1717688/17488/0">
+               <a data-v-2b6d08fe="" href="#">
                   <div data-v-2b6d08fe="" class="slot-game__img-container">
                      <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/17488/thumbnail.jpg" alt="Mystic Potion"> 
                      <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
@@ -2387,9 +2387,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/12897/thumbnail.jpg" alt="MeritKing Sugar Rush"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20meritkingsr/12897/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20meritkingsr/12897/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2404,9 +2404,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/netgame/19713/thumbnail.webp" alt="Tumblin’ Dublin"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/netgame-TumblinDublin/19713/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/netgame-TumblinDublin/19713/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2421,9 +2421,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/14155/thumbnail.png" alt="Merge Up"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-MergeUp/14155/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-MergeUp/14155/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2438,9 +2438,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17485/thumbnail.png" alt="Heart of Cleopatra"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20heartcleo/17485/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20heartcleo/17485/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2455,9 +2455,9 @@
                   <img data-v-2b6d08fe="" src="https://play.rkbh4483.com/games/63566b0c26625500019175d7/v1.0.111/logos/en/desktop.png" alt="Gold Gold Gold"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/63566b0c26625500019175d7/17282/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/63566b0c26625500019175d7/17282/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2472,9 +2472,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/16944/thumbnail.jpg" alt="Big Bass Floats My Boat"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbfloats/16944/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbfloats/16944/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2485,7 +2485,7 @@
                </button>
             </li>
             <li data-v-2b6d08fe="" data-v-0f563d6e="" class="slot-game">
-               <a data-v-2b6d08fe="" href="/play/slot/fastspin/S-MD01/19880/0">
+               <a data-v-2b6d08fe="" href="#">
                   <div data-v-2b6d08fe="" class="slot-game__img-container">
                      <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/fastspin/19880/thumbnail.jpg" alt="Money Dragon"> 
                      <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -2502,9 +2502,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/barbarabang/19298/thumbnail.webp" alt="Double Blazing Hot 27 Ways"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/barbarabang-DoubleBlazingHot27Ways/19298/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/barbarabang-DoubleBlazingHot27Ways/19298/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2519,9 +2519,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/5men/19092/thumbnail.webp" alt="100 Extra Hot"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/5men-100ExtraHot/19092/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/5men-100ExtraHot/19092/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2536,9 +2536,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/rfranco/19827/thumbnail.webp" alt="40 Super 7"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-40Super7/19827/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-40Super7/19827/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2553,9 +2553,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/altente/19800/thumbnail.webp" alt="A Song of Fruit and Fire"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-ASongofFruitandFire/19800/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-ASongofFruitandFire/19800/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2570,9 +2570,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/amatic/1228/thumbnail.jpg" alt="Plenty Dragons"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/amatic-PlentyDragons/1228/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/amatic-PlentyDragons/1228/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2587,9 +2587,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/gamingcorps/19929/thumbnail.webp" alt="777 Jackpot Diamond Hold and Win"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/gamingcorps-777JackpotDiamondHoldandWin/19929/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/gamingcorps-777JackpotDiamondHoldandWin/19929/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2604,9 +2604,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/2574/thumbnail.jpg" alt="Gates of Olympus"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olympgate/2574/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20olympgate/2574/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2621,9 +2621,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/16931/thumbnail.png" alt="Aztec Clusters"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-AztecClusters/16931/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-AztecClusters/16931/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2638,9 +2638,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/spadegaming-slot/16792/thumbnail.jpg" alt="Clash of the Giants"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/spadegamingslot/S-CG02/16792/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/spadegamingslot/S-CG02/16792/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2655,9 +2655,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13130/thumbnail.png" alt="Slot Mania Sugar"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20slotsugar/13130/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20slotsugar/13130/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2672,9 +2672,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/rfranco/19860/thumbnail.webp" alt="Vikings Rage"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-VikingsRage/19860/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/alg-VikingsRage/19860/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2689,9 +2689,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/barbarabang/19282/thumbnail.webp" alt="20 Super Blazing Hot"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/barbarabang-20SuperBlazingHot/19282/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/barbarabang-20SuperBlazingHot/19282/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2706,9 +2706,9 @@
                   <img data-v-2b6d08fe="" src="https://play.rkbh4483.com/games/616168aabefa370018538081/v2.1.117/logos/en/desktop.png" alt="Fortune &amp; Finery"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/boominggames/616168aabefa370018538081/17313/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/boominggames/616168aabefa370018538081/17313/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2723,9 +2723,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/clawbuster/14273/thumbnail.jpg" alt="Candy Claw"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/clawbuster-CANDY_CLAW/14273/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/clawbuster-CANDY_CLAW/14273/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2740,9 +2740,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/netgame/19714/thumbnail.webp" alt="Volcano Fruits"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/netgame-VolcanoFruits/19714/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/netgame-VolcanoFruits/19714/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2757,9 +2757,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/reevo/17040/thumbnail.png" alt="Expanding Wild Leprechaun"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--new">new</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/17040/17040/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/17040/17040/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2774,9 +2774,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/7709/thumbnail.png" alt="Lucky Farm Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-LuckyFarmBonanza/7709/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-LuckyFarmBonanza/7709/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2791,9 +2791,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/microgaming/16360/thumbnail.jpg" alt="Chronicles of Olympus II"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_chroniclesOfOlympusIIZeus/16360/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_chroniclesOfOlympusIIZeus/16360/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2808,9 +2808,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/17479/thumbnail.jpg" alt="Moo Moo Cow"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGMooMooCow/17479/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGMooMooCow/17479/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2825,9 +2825,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/kalamba/13780/thumbnail.jpg" alt="Wilds from the Crypt"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/13780/13780/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/13780/13780/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2842,9 +2842,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/17240/thumbnail.png" alt="The Dog House - Dog or Alive"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20doghouse2/17240/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20doghouse2/17240/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2859,9 +2859,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/spinomenal/4827/thumbnail.jpg" alt="Book of Rampage"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-BookOfRampage/4827/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/spnmnl-BookOfRampage/4827/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2876,9 +2876,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/13479/thumbnail.png" alt="Gemhalla"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-Gemhalla/13479/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-Gemhalla/13479/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2893,9 +2893,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/14233/thumbnail.png" alt="Barong Rico"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs5barongrico/14233/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs5barongrico/14233/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2910,9 +2910,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/gamingcorps/19939/thumbnail.webp" alt="Bank or Bust"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/gamingcorps-BankorBust/19939/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/gamingcorps-BankorBust/19939/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2927,9 +2927,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/1spin4win/5150/thumbnail.jpg" alt="Lucky 100 Bells"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-Lucky100Bells/5150/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-Lucky100Bells/5150/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2944,9 +2944,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/1spin4win/14160/thumbnail.png" alt="All ways Lucky Pot"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-AllwaysLuckyPot/14160/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-AllwaysLuckyPot/14160/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2961,9 +2961,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bfgames/16079/thumbnail.webp" alt="Burning Slots"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/bfgames-BurningSlots/16079/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/bfgames-BurningSlots/16079/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2978,9 +2978,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/16940/thumbnail.png" alt="Hot Hot Summer"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGHotHotSummer/16940/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGHotHotSummer/16940/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -2995,9 +2995,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/1spin4win/13999/thumbnail.png" alt="Cash'n Fruits 100 Hold And Win"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-CashnFruits100HoldAndWin/13999/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-CashnFruits100HoldAndWin/13999/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3012,9 +3012,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13226/thumbnail.png" alt="Zeus vs Hades - Gods of War"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs15godsofwar/13226/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs15godsofwar/13226/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3029,9 +3029,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/microgaming/12331/thumbnail.jpg" alt="Ancient Fortunes: Zeus"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_ancientFortunesZeus/12331/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_ancientFortunesZeus/12331/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3046,9 +3046,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13621/thumbnail.jpg" alt="5000X Mania"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20xmania/13621/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20xmania/13621/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3063,9 +3063,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/kalamba/11534/thumbnail.jpg" alt="Goblins and Gemstones"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/11534/11534/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/11534/11534/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3080,9 +3080,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/booongo/13761/thumbnail.jpg" alt="Lady Fortune"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/reevo/13761/13761/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/reevo/13761/13761/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3097,9 +3097,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/8973/thumbnail.png" alt="Bomb Runner"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGBombRunner/8973/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGBombRunner/8973/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3114,9 +3114,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/13386/thumbnail.png" alt="Gemstone"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs5gemstone/13386/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs5gemstone/13386/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3131,9 +3131,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/8963/thumbnail.png" alt="Wealth Inn MeritKing"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGWealthInnMeritKing/8963/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGWealthInnMeritKing/8963/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3148,9 +3148,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/9220/thumbnail.png" alt="Bomb Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"><span data-v-2b6d08fe="" class="surface flag--promo">promo</span></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs25bomb/9220/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs25bomb/9220/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3165,9 +3165,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/1spin4win/7544/thumbnail.png" alt="Mega Lucky Pot"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-MegaLuckyPot/7544/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-MegaLuckyPot/7544/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3182,9 +3182,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/11783/thumbnail.png" alt="Gangsterz"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-Gangsterz/11783/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-Gangsterz/11783/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3199,9 +3199,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/9604/thumbnail.jpg" alt="Crown of Fire"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10crownfire/9604/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10crownfire/9604/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3216,9 +3216,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/bgaming/9567/thumbnail.png" alt="Wild Cash x9990"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-WildCashX9990/9567/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/softswiss-WildCashX9990/9567/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3233,9 +3233,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/2/thumbnail.jpg" alt="Big Bass Bonanza"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbbonanza/2/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs10bbbonanza/2/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3250,9 +3250,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/microgaming/12652/thumbnail.jpg" alt="Sonic Links"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_sonicLinks/12652/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/microgaming/SMG_sonicLinks/12652/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3263,7 +3263,7 @@
                </button>
             </li>
             <li data-v-2b6d08fe="" data-v-0f563d6e="" class="slot-game">
-               <a data-v-2b6d08fe="" href="/play/slot/pgsoft/1594259/13976/0">
+               <a data-v-2b6d08fe="" href="#">
                   <div data-v-2b6d08fe="" class="slot-game__img-container">
                      <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/13976/thumbnail.jpg" alt="Safari Wilds"> 
                      <div data-v-2b6d08fe="" class="game__flag"></div>
@@ -3280,9 +3280,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/4370/thumbnail.jpg" alt="Lucky Lightning"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswayslight/4370/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vswayslight/4370/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3297,9 +3297,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero-live/9566/thumbnail.jpg" alt="Laughing Buddha"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/SGLaughingBuddha/9566/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/SGLaughingBuddha/9566/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3314,9 +3314,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/1spin4win/4509/thumbnail.jpg" alt="LuckyCrown 81x"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-LuckyCrown81x/4509/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/softswiss/1spin4win-LuckyCrown81x/4509/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3331,9 +3331,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/gmw/8964/thumbnail.png" alt="Sugar Bang"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/habanero/TPSugarBang/8964/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/habanero/TPSugarBang/8964/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>
@@ -3348,9 +3348,9 @@
                   <img data-v-2b6d08fe="" src="https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pragmatic-play/146/thumbnail.jpg" alt="Sweet Bonanza Xmas"> 
                   <div data-v-2b6d08fe="" class="game__flag"></div>
                   <!----> 
-                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20sbxmas/146/1" class="btn btn--brand btn--flex">
+                  <div data-v-2b6d08fe="" class="slot-game__hover"><a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex">
                      eğlencesine oyna
-                     </a> <a data-v-2b6d08fe="" href="/play/slot/pragmaticplay/vs20sbxmas/146/0" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
+                     </a> <a data-v-2b6d08fe="" href="#" class="btn btn--brand btn--flex"><i data-v-3ee02676="" data-v-2b6d08fe="" class="icon-coins icon--md"></i>
                      para ile oyna
                      </a>
                   </div>

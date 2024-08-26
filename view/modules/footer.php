@@ -748,15 +748,11 @@ function islemkisiti(){
 }
 <?php if(isset($us['id'])){?>
 function loginorp1ay(){
-   Swal.fire({
-    title: 'Hata!',
-    icon: 'error',
-    html: 'Yetersiz Bakiye! Hesabınıza Yükleme Yapınız. <br> <button class="swal2-confirm swal2-styled"><a href="deposit">Para Yatır</a></button>',
-    showConfirmButton: false
-});
+   depositModal();
 }
 <?php }else{?>
    function loginorp1ay(){
+   loginModal();
       
    }
    <?php }?>

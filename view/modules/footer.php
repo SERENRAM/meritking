@@ -138,8 +138,8 @@
                </div>
             </div>
          </footer>
-         <div class=app-drawer__root>
-            <div class=app-drawer__backdrop style=display:none></div>
+         <div class=app-drawer__root id="usernemua">
+            <div class="app-drawer__backdrop hidden" id="usernemua1"  onclick="openUserMenu()"></div>
             <div class="app-drawer app-drawer--default app-drawer--left app-drawer--primary">
                <div data-v-61f084f0 class=side-menu>
                   <div data-v-61f084f0 class=side-menu__teaser>

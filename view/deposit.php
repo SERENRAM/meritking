@@ -278,15 +278,15 @@ if ($detect->isMobile()) {?>
          </li>
       </ul>
 
-<div data-v-f3995e34="" data-v-3ed8b204="" class="deposit-method hidden">
-   <header data-v-f3995e34="">
-      <div data-v-f3995e34="" class="mobile-header">
-         <a data-v-f3995e34="" href="deposit" class="mobile-header__back-button btn btn--dark btn--round btn--flex open active"><i data-v-533b5753="" data-v-f3995e34="" class="icon-chevron-left icon--md"></i></a> 
-         <div data-v-f3995e34="" class="mobile-header__method-name">
+<div data-v-631850fe="" data-v-3ed8b204="" class="deposit-method hidden">
+   <header data-v-631850fe="">
+      <div data-v-631850fe="" class="mobile-header">
+         <a data-v-631850fe="" href="deposit" class="mobile-header__back-button btn btn--dark btn--round btn--flex open active"><i data-v-533b5753="" data-v-631850fe="" class="icon-chevron-left icon--md"></i></a> 
+         <div data-v-631850fe="" class="mobile-header__method-name">
             PAYFIX
          </div>
       </div>
-      <div data-v-f3995e34="" class="method-info">
+      <div data-v-631850fe="" class="method-info">
          <div>
             <i data-v-533b5753="" class="icon-time icon--2x"></i> 
             <div>
@@ -309,7 +309,7 @@ if ($detect->isMobile()) {?>
             </div>
          </div>
       </div>
-      <div data-v-afd4dde2="" data-v-f3995e34="" class="bonus-panel" value="">
+      <div data-v-afd4dde2="" data-v-631850fe="" class="bonus-panel" value="">
          <div data-v-afd4dde2="" class="bonus-panel__select">
             <header data-v-afd4dde2=""><button data-v-afd4dde2="" type="button" disabled="disabled"><label data-v-afd4dde2=""><i data-v-533b5753="" data-v-afd4dde2="" class="icon-gift icon--lg"></i></label> <span data-v-afd4dde2="">
                Lütfen Bonus Seçiniz
@@ -321,7 +321,7 @@ if ($detect->isMobile()) {?>
       </div>
    </header>
    <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
-   <form data-v-f3995e34="" id="havaleDetails" class="formsa hidden" onsubmit="setPayment('havale')">
+   <form data-v-631850fe="" id="havaleDetails" class="formsa hidden" onsubmit="setPayment('havale')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -379,7 +379,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="paparaDetails" class="formsa hidden" onsubmit="setPayment('papara')">
+   <form data-v-631850fe="" id="paparaDetails" class="formsa hidden" onsubmit="setPayment('papara')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -435,7 +435,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="payfixDetails" class="formsa hidden" action="/payfix">
+   <form data-v-631850fe="" id="payfixDetails" class="formsa hidden" action="/payfix">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -491,7 +491,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="mefeteDetails" class="formsa hidden" onsubmit="setPayment('mefete')">
+   <form data-v-631850fe="" id="mefeteDetails" class="formsa hidden" onsubmit="setPayment('mefete')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -547,7 +547,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="cryptoDetails" class="formsa hidden" onsubmit="setPayment('crypto')">
+   <form data-v-631850fe="" id="cryptoDetails" class="formsa hidden" onsubmit="setPayment('crypto')">
 
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
@@ -612,7 +612,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="cardDetails" class="formsa hidden" onsubmit="setPayment('creditcard')">
+   <form data-v-631850fe="" id="cardDetails" class="formsa hidden" onsubmit="setPayment('creditcard')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -953,17 +953,17 @@ if ($detect->isMobile()) {?>
          </li>
       </ul>
       <div data-v-3ed8b204="" class="deposit__spacer"></div>
-<div data-v-f3995e34="" data-v-3ed8b204="" class="deposit-method deposit-method--d hidden">
-   <header data-v-f3995e34="">
+<div data-v-631850fe="" data-v-3ed8b204="" class="deposit-method deposit-method--d hidden">
+   <header data-v-631850fe="">
       <!----> 
-      <div data-v-f3995e34="" class="method-video " style="
+      <div data-v-631850fe="" class="method-video " style="
     display: flex;
     align-items: center;
     justify-content: center;
 "><img id="pay_img" style="
     margin-top: 200px;
 " src="https://d3ejb2l5e3bvmc.cloudfront.net/static/37/payment/payfix.png" alt=""></div>
-       <div data-v-f3995e34="" class="method-info method-info--d">
+       <div data-v-631850fe="" class="method-info method-info--d">
          <div>
             <i data-v-533b5753="" class="icon-time icon--3x"></i> 
             <div>
@@ -986,12 +986,12 @@ if ($detect->isMobile()) {?>
             </div>
          </div>
       </div>
-      <div data-v-4146dfa2="" data-v-f3995e34="" class="bonus-select" value="">
+      <div data-v-4146dfa2="" data-v-631850fe="" class="bonus-select" value="">
          <ul data-v-4146dfa2=""></ul>
       </div>
    </header>
    <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
-   <form data-v-f3995e34="" id="havaleDetails" class="formsa hidden" onsubmit="setPayment('havale')">
+   <form data-v-631850fe="" id="havaleDetails" class="formsa hidden" onsubmit="setPayment('havale')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -1049,7 +1049,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="paparaDetails" class="formsa hidden" onsubmit="setPayment('papara')">
+   <form data-v-631850fe="" id="paparaDetails" class="formsa hidden" onsubmit="setPayment('papara')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -1105,7 +1105,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="payfixDetails" class="formsa hidden" action="/payfix">
+   <form data-v-631850fe="" id="payfixDetails" class="formsa hidden" action="/payfix">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -1161,7 +1161,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="mefeteDetails" class="formsa hidden" onsubmit="setPayment('mefete')">
+   <form data-v-631850fe="" id="mefeteDetails" class="formsa hidden" onsubmit="setPayment('mefete')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -1217,7 +1217,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="cryptoDetails" class="formsa hidden" onsubmit="setPayment('crypto')">
+   <form data-v-631850fe="" id="cryptoDetails" class="formsa hidden" onsubmit="setPayment('crypto')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">
@@ -1281,7 +1281,7 @@ if ($detect->isMobile()) {?>
          <!----> <span data-v-6a60ad26="">Ödemeyi Gerçekleştir</span>
       </button>
    </form>
-   <form data-v-f3995e34="" id="cardDetails" class="formsa hidden" onsubmit="setPayment('creditcard')">
+   <form data-v-631850fe="" id="cardDetails" class="formsa hidden" onsubmit="setPayment('creditcard')">
       <div class="input__container" value="">
          <div class="preset-amounts preset-amounts--d">
             <div class="preset-amounts__item"><label for="[object Object]-0">

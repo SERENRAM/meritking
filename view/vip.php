@@ -1,7 +1,7 @@
 <main>
    <div class="observer" style="top: 70px;"></div>
    <section data-v-0c5e7494="" class="vip vip--d">
-      <div data-v-0c5e7494="" class="vip__banner"><img data-v-0c5e7494="" src="/images/redesign/banner-vip-d.jpg" alt="King ViP Club"></div>
+      <div data-v-0c5e7494="" class="vip__banner"><img data-v-0c5e7494="" src="/assets/images/banner-vip-d.jpg" alt="King ViP Club"></div>
       <div data-v-0c5e7494="" class="app-container">
          <button data-v-6a60ad26="" data-v-0c5e7494="" class="btn btn--brand btn--flex brand-button btn--uppercase" style="justify-self: center;">
             <!----> HEMEN GİRİŞ YAP

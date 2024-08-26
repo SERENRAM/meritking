@@ -1222,7 +1222,7 @@ button.btn--white {
   right: calc(-400px - 1rem);
 }
 .app-drawer--open {
-  pointer-events: all;
+  pointer-events: all !important;
 }
 .app-drawer--open .app-drawer--default.app-drawer--left {
   -webkit-transform: translateX(calc(300px + 1rem));

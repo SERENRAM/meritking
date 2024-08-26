@@ -746,16 +746,7 @@ function islemkisiti(){
 });
 
 }
-<?php if(isset($us['id'])){?>
-function loginorp1ay(){
-   depositModal();
-}
-<?php }else{?>
-   function loginorp1ay(){
-   loginModal();
-      
-   }
-   <?php }?>
+
 
 function openUserMenu(){
   $('#usernemua').toggleClass('app-drawer--open');

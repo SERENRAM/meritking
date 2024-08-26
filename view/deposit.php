@@ -956,7 +956,7 @@ if ($detect->isMobile()) {?>
 <div data-v-631850fe="" data-v-3ed8b204="" class="deposit-method deposit-method--d hidden">
    <header data-v-631850fe="">
       <!----> 
-      <div data-v-631850fe="" class="#" style="
+      <div data-v-631850fe="" class="hidden" style="
     display: flex;
     align-items: center;
     justify-content: center;

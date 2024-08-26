@@ -139,7 +139,7 @@
             </div>
          </footer>
          <div class=app-drawer__root>
-            <div class="app-drawer__backdrop hidden" id="usernemua1"  onclick="openUserMenu()"></div>
+            <div class="app-drawer__backdrop"></div>
             <div class="app-drawer app-drawer--default app-drawer--left app-drawer--primary">
                <div data-v-61f084f0 class=side-menu>
                   <div data-v-61f084f0 class=side-menu__teaser>
@@ -421,7 +421,7 @@
             </div>
          </div>
          <div class="app-drawer__root" id="usernemua">
-            <div class="app-drawer__backdrop hidden" id="usernemua1"  onclick="openUserMenu()"></div>
+            <div class="app-drawer__backdrop hidden" id="usernemua1" onclick="openUserMenu()"></div>
             <div class="app-drawer app-drawer--default app-drawer--right app-drawer--dark">
                <div data-v-34b46e5d="" class="user-menu">
                   <header data-v-34b46e5d="" class="user-menu__header">

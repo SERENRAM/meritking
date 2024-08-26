@@ -616,7 +616,7 @@
                      </form>
                   </div>
                </div>
-               <button class="app-modal__close btn--black"><i data-v-3ee02676="" class="icon-times-circle icon--2x"></i></button>
+               <button class="app-modal__close btn--black" onclick="loginModal()"><i data-v-3ee02676="" class="icon-times-circle icon--2x"></i></button>
             </div>
          </div>
          <div class="app-modal hidden modal" id="discoundModal">

@@ -574,15 +574,38 @@ $(document).ready(function() {
         $('.app-header__username').toggleClass('active');
         $('#chatbuttons').toggleClass('hidden');
       }
-      function loginModal(){
-        $('#loginModal').toggleClass('hidden');
+      function loginModal() {
+        const modal = $('#loginModal');
+        
+        modal.addClass('page-transition-leave-active page-transition-leave-to');
+        
+        setTimeout(function() {
+            modal.removeClass('page-transition-leave-active page-transition-leave-to');
+        }, 1000);
+        
+        modal.toggleClass('hidden');
+    }
+    function discountModal() {
+        const modal = $('#discountModal');
+        
+        modal.addClass('page-transition-leave-active page-transition-leave-to');
+        
+        setTimeout(function() {
+            modal.removeClass('page-transition-leave-active page-transition-leave-to');
+        }, 1000);
+        
+        modal.toggleClass('hidden');
+    }
+    function depositModal() {
+        const modal = $('#depositModal');
+        
+        modal.addClass('page-transition-leave-active page-transition-leave-to');
+        
+        setTimeout(function() {
+            modal.removeClass('page-transition-leave-active page-transition-leave-to');
+        }, 1000);
+        
+        modal.toggleClass('hidden');
+    }
       
-      }
-      function discountModal(){
-        $('#discountModal').toggleClass('hidden');
-      
-      }
-      function depositModal(){
-        $('#depositModal').toggleClass('hidden');
-      
-      }
+     

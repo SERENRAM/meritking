@@ -576,36 +576,36 @@ $(document).ready(function() {
       }
       function loginModal() {
         const modal = $('#loginModal');
-        
+        modal.toggleClass('hidden');
         modal.addClass('page-transition-leave-active page-transition-leave-to');
         
         setTimeout(function() {
             modal.removeClass('page-transition-leave-active page-transition-leave-to');
         }, 1000);
         
-        modal.toggleClass('hidden');
+        
     }
     function discountModal() {
         const modal = $('#discountModal');
-        
+        modal.toggleClass('hidden');
         modal.addClass('page-transition-leave-active page-transition-leave-to');
         
         setTimeout(function() {
             modal.removeClass('page-transition-leave-active page-transition-leave-to');
         }, 1000);
         
-        modal.toggleClass('hidden');
+        
     }
     function depositModal() {
         const modal = $('#depositModal');
-        
+        modal.toggleClass('hidden');
         modal.addClass('page-transition-leave-active page-transition-leave-to');
         
         setTimeout(function() {
             modal.removeClass('page-transition-leave-active page-transition-leave-to');
         }, 1000);
         
-        modal.toggleClass('hidden');
+        
     }
       
      

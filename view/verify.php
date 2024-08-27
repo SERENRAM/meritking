@@ -96,7 +96,7 @@
                </header>
                <div data-v-c6b7569c="" class="user-panel__body" style="max-height: 61px;">
                   <form data-v-3a990e06="" class="form-verify-phone" data-v-c6b7569c="">
-                     <div class="form-verify-phone__current">*********4405</div>
+                     <div class="form-verify-phone__current">*************</div>
                      <!----> <!----> <!---->
                   </form>
                </div>

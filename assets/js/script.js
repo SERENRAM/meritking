@@ -572,7 +572,7 @@ $(document).ready(function() {
         $('html').toggleClass('scroll-disabled');
         $('body').toggleClass('scroll-disabled');
         $('.app-header__username').toggleClass('active');
-
+        $('#chatbuttons').toggleClass('hidden');
       }
       function loginModal(){
         $('#loginModal').toggleClass('hidden');

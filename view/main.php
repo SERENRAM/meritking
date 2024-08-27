@@ -17,7 +17,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>baran2134**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/softswiss-MeritkingBonanza/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/33.png alt="Meritking Bonanza"></div>
                            </a>
                            &nbsp;
@@ -35,7 +35,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>ciftl**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/egt-40BulkyFruits/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/34.jpg alt="40 Bulky Fruits"></div>
                            </a>
                            &nbsp;
@@ -53,7 +53,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>alifuat**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20olympx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/35.gif alt="Gates of Olympus 1000"></div>
                            </a>
                            &nbsp;
@@ -71,7 +71,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>cmg07**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20fruitswx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/36.gif alt="Sweet Bonanza 1000"></div>
                            </a>
                            &nbsp;
@@ -89,7 +89,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>alemci2**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vswaysrhino/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/37.jpg alt="Great Rhino Megaways"></div>
                            </a>
                            &nbsp;
@@ -107,7 +107,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>yeti**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20puresweeth/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/38.png alt="Pure Sweet"></div>
                            </a>
                            &nbsp;
@@ -125,7 +125,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>leo17**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20olympx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/35.gif alt="Gates of Olympus 1000"></div>
                            </a>
                            &nbsp;
@@ -143,7 +143,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>furkan0**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs25goldparty/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/39.jpg alt="Gold Party"></div>
                            </a>
                            &nbsp;
@@ -161,7 +161,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>gungortemel**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs10bbhas/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/40.gif alt="Big Bass - Hold &amp; Spinner"></div>
                            </a>
                            &nbsp;
@@ -179,7 +179,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>cmg07**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20fruitswx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/36.gif alt="Sweet Bonanza 1000"></div>
                            </a>
                            &nbsp;
@@ -197,7 +197,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>manifest**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/egt-CatsRoyal/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/41.jpg alt="Cats Royal"></div>
                            </a>
                            &nbsp;
@@ -215,7 +215,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>grhan07**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20fruitsw/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/42.gif alt="Sweet Bonanza"></div>
                            </a>
                            &nbsp;
@@ -233,7 +233,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>azat26**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20olympx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/35.gif alt="Gates of Olympus 1000"></div>
                            </a>
                            &nbsp;
@@ -251,7 +251,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>mrlaz53**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20meritkingsr/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/43.jpg alt="MeritKing Sugar Rush"></div>
                            </a>
                            &nbsp;
@@ -269,7 +269,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>karakuzu**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/wazdan-9CoinsGrandPlatinumEdition/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/44.png alt="9 Coins Grand Platinum Edition"></div>
                            </a>
                            &nbsp;
@@ -287,7 +287,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>ucanpira**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20olympx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/35.gif alt="Gates of Olympus 1000"></div>
                            </a>
                            &nbsp;
@@ -305,7 +305,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>grhan07**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20fruitswx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/36.gif alt="Sweet Bonanza 1000"></div>
                            </a>
                            &nbsp;
@@ -323,7 +323,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>oguzhan**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20olympx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/35.gif alt="Gates of Olympus 1000"></div>
                            </a>
                            &nbsp;
@@ -341,7 +341,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>cpten**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs15godsofwar/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/45.png alt="Zeus vs Hades - Gods of War"></div>
                            </a>
                            &nbsp;
@@ -359,7 +359,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>cmg07**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20sugarrushx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/46.gif alt="Sugar Rush 1000"></div>
                            </a>
                            &nbsp;
@@ -377,7 +377,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>enesklt**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20sugrux/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/47.png alt="Sugar Rush Xmas™"></div>
                            </a>
                            &nbsp;
@@ -395,7 +395,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>mervesid**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20starlightx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/48.gif alt="Starlight Princess 1000"></div>
                            </a>
                            &nbsp;
@@ -413,7 +413,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>korsanfikr**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/habanero/SGHotHotMeritKing/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/49.png alt="Hot Hot MeritKing"></div>
                            </a>
                            &nbsp;
@@ -431,7 +431,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>wish**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20fruitswx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/36.gif alt="Sweet Bonanza 1000"></div>
                            </a>
                            &nbsp;
@@ -449,7 +449,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>burako**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/egt-40BurningHot6Reels/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/50.jpg alt="40 Burning Hot 6 Reels"></div>
                            </a>
                            &nbsp;
@@ -467,7 +467,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>nili**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs10bbhas/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/40.gif alt="Big Bass - Hold &amp; Spinner"></div>
                            </a>
                            &nbsp;
@@ -485,7 +485,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>cpten**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs10bbhas/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/40.gif alt="Big Bass - Hold &amp; Spinner"></div>
                            </a>
                            &nbsp;
@@ -503,7 +503,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>keles**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20fruitswx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/36.gif alt="Sweet Bonanza 1000"></div>
                            </a>
                            &nbsp;
@@ -521,7 +521,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>mstfkck**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/egt-FlamingHot/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/51.png alt="Flaming Hot"></div>
                            </a>
                            &nbsp;
@@ -539,7 +539,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>sapadock**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20olympx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/35.gif alt="Gates of Olympus 1000"></div>
                            </a>
                            &nbsp;
@@ -557,7 +557,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>burako**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/egt-40BurningHot6Reels/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/50.jpg alt="40 Burning Hot 6 Reels"></div>
                            </a>
                            &nbsp;
@@ -575,7 +575,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>jeomp05**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/softswiss/egt-FlamingHotExtreme/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/52.jpg alt="Flaming Hot Extreme"></div>
                            </a>
                            &nbsp;
@@ -593,7 +593,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>diza**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20sugarrush/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/53.png alt="Sugar Rush"></div>
                            </a>
                            &nbsp;
@@ -611,7 +611,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>129071870**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20sugarrushx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/46.gif alt="Sugar Rush 1000"></div>
                            </a>
                            &nbsp;
@@ -629,7 +629,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>baeo**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/reevo/58778/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/54.png alt="Diamond Supreme Hold and Win"></div>
                            </a>
                            &nbsp;
@@ -647,7 +647,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>kcihang**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs15godsofwar/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/45.png alt="Zeus vs Hades - Gods of War"></div>
                            </a>
                            &nbsp;
@@ -665,7 +665,7 @@
                         <li data-v-4ed4a005>
                            <strong data-v-4ed4a005>saba**</strong>
                            &nbsp;
-                           <a data-v-4ed4a005 href=/play/slot/pragmaticplay/vs20starlightx/0 class="surface ticker__img-link">
+                           <a data-v-4ed4a005 href=# class="surface ticker__img-link">
                               <div data-v-4ed4a005><img data-v-4ed4a005 src=/assets/images/48.gif alt="Starlight Princess 1000"></div>
                            </a>
                            &nbsp;
@@ -3953,7 +3953,7 @@
                      <li class="fill sf-hidden"></li>
                      <li data-idx=0 data-pos=10 style=animation-delay:0ms;pointer-events:none class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vswaysincwnd/14015/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/67.jpg alt="Gold Oasis" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>canan85***</h5>
@@ -3968,7 +3968,7 @@
                         </div>
                      <li data-idx=1 data-pos=9 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20cleocatra/8970/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/68.jpg alt=Cleocatra loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>yesim32***</h5>
@@ -3983,7 +3983,7 @@
                         </div>
                      <li data-idx=2 data-pos=8 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20portals/17223/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/69.jpg alt="Fire Portals" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>vedases***</h5>
@@ -3998,7 +3998,7 @@
                         </div>
                      <li data-idx=3 data-pos=7 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20fruitswx/17918/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/70.jpg alt="Sweet Bonanza 1000" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>onurse***</h5>
@@ -4013,7 +4013,7 @@
                         </div>
                      <li data-idx=4 data-pos=6 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs15godsofwar/13226/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/71.jpg alt="Zeus vs Hades - Gods of War" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>byomer***</h5>
@@ -4028,7 +4028,7 @@
                         </div>
                      <li data-idx=5 data-pos=5 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20olympmerit/9585/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/72.jpg alt="Merit King of Olympus" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>malierbil**</h5>
@@ -4043,7 +4043,7 @@
                         </div>
                      <li data-idx=6 data-pos=4 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20mkprincess/17445/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/73.jpg alt="MeritKing Princess" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>agaoglu34**</h5>
@@ -4058,7 +4058,7 @@
                         </div>
                      <li data-idx=7 data-pos=3 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20meritkingsr/12897/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/74.jpg alt="MeritKing Sugar Rush" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>arda**10</h5>
@@ -4073,7 +4073,7 @@
                         </div>
                      <li data-idx=8 data-pos=2 style=animation-delay:0ms;pointer-events:none class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs10bbhas/13071/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/75.jpg alt="Big Bass - Hold &amp; Spinner" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>NUR***</h5>
@@ -4088,7 +4088,7 @@
                         </div>
                      <li data-idx=9 data-pos=1 style=pointer-events:all class=winners-carousel--back>
                         <div class=winners-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs15godsofwar/13226/0>
+                           <a href=#
                               <div class=winners-carousel__arb><img src=/assets/images/76.jpg alt="Zeus vs Hades - Gods of War" loading=lazy></div>
                               <div class=winners-carousel__detail>
                                  <h5>**AGALAROV</h5>
@@ -4164,7 +4164,7 @@
                            <span data-v-876f0ce2>Spaceman</span>
                         </a>
                      <li data-v-876f0ce2>
-                        <a data-v-876f0ce2 href=/play/casino/livegames/100000003/0>
+                        <a data-v-876f0ce2 href=/bingo>
                            <div data-v-876f0ce2><i data-v-3ee02676 data-v-876f0ce2 class="icon-bingo icon--2x"></i></div>
                            <span data-v-876f0ce2>Tombala</span>
                         </a>
@@ -4199,42 +4199,42 @@
                      <div class=teaser__content>
                         <ul data-v-40644173 class=home-merit-teaser>
                            <li data-v-40644173>
-                              <a data-v-40644173 href=/play/slot/pragmaticplay/vs10bbbmerit/18976/0>
+                              <a data-v-40644173 href=#
                                  <div data-v-40644173>
                                     <div data-v-40644173><img data-v-40644173 src=/assets/images/79.gif alt="Merit King Big Bass Bonanza"> </div>
                                  </div>
                                  <span data-v-40644173>Merit King Big Bass Bonanza</span>
                               </a>
                            <li data-v-40644173>
-                              <a data-v-40644173 href=/play/slot/pragmaticplay/vs20olympmerit/9585/0>
+                              <a data-v-40644173 href=#
                                  <div data-v-40644173>
                                     <div data-v-40644173><img data-v-40644173 src=/assets/images/80.gif alt="Merit King of Olympus"> </div>
                                  </div>
                                  <span data-v-40644173>Merit King of Olympus</span>
                               </a>
                            <li data-v-40644173>
-                              <a data-v-40644173 href=/play/slot/pragmaticplay/vs20mkprincess/17445/0>
+                              <a data-v-40644173 href=#
                                  <div data-v-40644173>
                                     <div data-v-40644173><img data-v-40644173 src=/assets/images/81.gif alt="MeritKing Princess"> </div>
                                  </div>
                                  <span data-v-40644173>MeritKing Princess</span>
                               </a>
                            <li data-v-40644173>
-                              <a data-v-40644173 href=/play/slot/softswiss/softswiss-MeritkingBonanza/16784/0>
+                              <a data-v-40644173 href=#
                                  <div data-v-40644173>
                                     <div data-v-40644173><img data-v-40644173 src=/assets/images/82.gif alt="Meritking Bonanza"> </div>
                                  </div>
                                  <span data-v-40644173>Meritking Bonanza</span>
                               </a>
                            <li data-v-40644173>
-                              <a data-v-40644173 href=/play/slot/pragmaticplay/vs20sweetbmerit/3866/0>
+                              <a data-v-40644173 href=#
                                  <div data-v-40644173>
                                     <div data-v-40644173><img data-v-40644173 src=/assets/images/83.gif alt="MeritKing Sweet Bonanza"> </div>
                                  </div>
                                  <span data-v-40644173>MeritKing Sweet Bonanza</span>
                               </a>
                            <li data-v-40644173>
-                              <a data-v-40644173 href=/play/slot/softswiss/spnmnl-PickAMeritFruit/20691/0>
+                              <a data-v-40644173 href=#
                                  <div data-v-40644173>
                                     <div data-v-40644173><img data-v-40644173 src=/assets/images/84.gif alt="Pick a Merit Fruit"> </div>
                                  </div>
@@ -4262,70 +4262,70 @@
                      <li class="fill sf-hidden"></li>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=0 data-pos=10 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20starlight/5395/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/89.jpg alt="Starlight Princess" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=1 data-pos=9 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20mkprincess/17445/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/90.jpg alt="MeritKing Princess" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=2 data-pos=8 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs25goldparty/5952/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/91.jpg alt="Gold Party" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=3 data-pos=7 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20olympx/16362/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/92.jpg alt="Gates of Olympus 1000" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=4 data-pos=6 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20fruitswx/17918/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/93.jpg alt="Sweet Bonanza 1000" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=5 data-pos=5 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20dede/16776/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/94.jpg alt="Saray Rüyası" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=6 data-pos=4 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs10bbbonanza/2/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/95.jpg alt="Big Bass Bonanza" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=7 data-pos=3 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20sugarrush/9203/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/96.jpg alt="Sugar Rush" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=8 data-pos=2 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20fruitsw/61/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/97.jpg alt="Sweet Bonanza" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
                         </div>
                      <li style=pointer-events:all class=winners-carousel--back>
                         <div data-idx=9 data-pos=1 class=top10-carousel__item>
-                           <a href=/play/slot/pragmaticplay/vs20olympgate/2574/0>
+                           <a href=#
                               <div class=top10-carousel__arb><img src=/assets/images/98.jpg alt="Gates of Olympus" loading=lazy></div>
                               <div class="top10-carousel__detail sf-hidden"></div>
                            </a>
@@ -4344,7 +4344,7 @@
                         <div data-v-57ba45bc class=home-slot-teaser>
                            <ul data-v-57ba45bc>
                               <li data-v-08f08a18 data-v-57ba45bc class=slot-promo-game>
-                                 <a data-v-08f08a18 href=/play/slot/pragmaticplay/vs20olympmerit/9585/0>
+                                 <a data-v-08f08a18 href=#
                                     <div data-v-08f08a18 class=slot-promo-game__root>
                                        <img data-v-08f08a18 src=/assets/images/99.gif alt="Merit King of Olympus"> 
                                        <div data-v-08f08a18 class=game__flag></div>
@@ -4352,7 +4352,7 @@
                                     <div data-v-08f08a18 class=slot-promo-game__favorite><i data-v-3ee02676 data-v-08f08a18 class="icon-star icon--md"></i></div>
                                  </a>
                               <li data-v-08f08a18 data-v-57ba45bc class=slot-promo-game>
-                                 <a data-v-08f08a18 href=/play/slot/softswiss/spnmnl-PickAMeritFruit/20691/0>
+                                 <a data-v-08f08a18 href=#
                                     <div data-v-08f08a18 class=slot-promo-game__root>
                                        <img data-v-08f08a18 src=/assets/images/100.gif alt="Pick a Merit Fruit"> 
                                        <div data-v-08f08a18 class=game__flag></div>
@@ -4362,42 +4362,42 @@
                            </ul>
                            <ul data-v-57ba45bc>
                               <li data-v-2b6d08fe data-v-57ba45bc class=slot-game>
-                                 <a data-v-2b6d08fe href=/play/slot/pragmaticplay/vs20fruitsw/61/0>
+                                 <a data-v-2b6d08fe href=#
                                     <div data-v-2b6d08fe class=slot-game__img-container>
                                        <img data-v-2b6d08fe src=/assets/images/101.gif alt="Sweet Bonanza"> 
                                        <div data-v-2b6d08fe class=game__flag></div>
                                     </div>
                                  </a>
                               <li data-v-2b6d08fe data-v-57ba45bc class=slot-game>
-                                 <a data-v-2b6d08fe href=/play/slot/pragmaticplay/vs20olympx/16362/0>
+                                 <a data-v-2b6d08fe href=#
                                     <div data-v-2b6d08fe class=slot-game__img-container>
                                        <img data-v-2b6d08fe src=/assets/images/102.gif alt="Gates of Olympus 1000"> 
                                        <div data-v-2b6d08fe class=game__flag></div>
                                     </div>
                                  </a>
                               <li data-v-2b6d08fe data-v-57ba45bc class=slot-game>
-                                 <a data-v-2b6d08fe href=/play/slot/pragmaticplay/vs10bbhas/13071/0>
+                                 <a data-v-2b6d08fe href=#
                                     <div data-v-2b6d08fe class=slot-game__img-container>
                                        <img data-v-2b6d08fe src=/assets/images/103.gif alt="Big Bass - Hold &amp; Spinner"> 
                                        <div data-v-2b6d08fe class=game__flag></div>
                                     </div>
                                  </a>
                               <li data-v-2b6d08fe data-v-57ba45bc class=slot-game>
-                                 <a data-v-2b6d08fe href=/play/slot/pragmaticplay/vs20sugarrushx/17060/0>
+                                 <a data-v-2b6d08fe href=#
                                     <div data-v-2b6d08fe class=slot-game__img-container>
                                        <img data-v-2b6d08fe src=/assets/images/104.gif alt="Sugar Rush 1000"> 
                                        <div data-v-2b6d08fe class=game__flag></div>
                                     </div>
                                  </a>
                               <li data-v-2b6d08fe data-v-57ba45bc class=slot-game>
-                                 <a data-v-2b6d08fe href=/play/slot/pragmaticplay/vs20dede/16776/0>
+                                 <a data-v-2b6d08fe href=#
                                     <div data-v-2b6d08fe class=slot-game__img-container>
                                        <img data-v-2b6d08fe src=/assets/images/105.gif alt="Saray Rüyası"> 
                                        <div data-v-2b6d08fe class=game__flag></div>
                                     </div>
                                  </a>
                               <li data-v-2b6d08fe data-v-57ba45bc class=slot-game>
-                                 <a data-v-2b6d08fe href=/play/slot/pragmaticplay/vs20starlightx/14158/0>
+                                 <a data-v-2b6d08fe href=#
                                     <div data-v-2b6d08fe class=slot-game__img-container>
                                        <img data-v-2b6d08fe src=/assets/images/106.gif alt="PStarlight Princess 1000"> 
                                        <div data-v-2b6d08fe class=game__flag></div>
@@ -4416,7 +4416,7 @@
                         <ul data-v-5b4df450 class=home-casino-teaser>
                            <li data-v-5b4df450 class="fill sf-hidden"></li>
                            <li data-v-5b4df450>
-                              <a data-v-5b4df450 href=/play/casino/pragmaticplay/230a17/0>
+                              <a data-v-5b4df450 href=#>
                                  <div data-v-5b4df450 class=home-casino-teaser__promo>
                                     Şimdi Oyna
                                  </div>
@@ -4424,12 +4424,12 @@
                                  <span data-v-5b4df450>MeritKing Roulette</span>
                               </a>
                            <li data-v-5b4df450>
-                              <a data-v-5b4df450 href=/play/casino/microgaming_live/SMG_MGLiveGrand_MeritKingTurkishRoulette/0>
+                              <a data-v-5b4df450 href=#>
                                  <div data-v-5b4df450 class=home-casino-teaser__image><img data-v-5b4df450 src=/assets/images/108.png loading=lazy> </div>
                                  <span data-v-5b4df450>MeritKing Turkish Roulette</span>
                               </a>
                            <li data-v-5b4df450>
-                              <a data-v-5b4df450 href=/play/casino/microgaming_live/SMG_MGLiveGrand_MeritKingDiamondRoulette/0>
+                              <a data-v-5b4df450 href=#>
                                  <div data-v-5b4df450 class=home-casino-teaser__image><img data-v-5b4df450 src=/assets/images/109.png loading=lazy> </div>
                                  <span data-v-5b4df450>MeritKing Diamond Roulette</span>
                               </a>
@@ -4439,12 +4439,12 @@
                                  <span data-v-5b4df450>MeritKing Roulette</span>
                               </a>
                            <li data-v-5b4df450>
-                              <a data-v-5b4df450 href=/play/casino/livegames/100000003/0>
+                              <a data-v-5b4df450 href=#>
                                  <div data-v-5b4df450 class=home-casino-teaser__image><img data-v-5b4df450 src=/assets/images/111.jpg loading=lazy> </div>
                                  <span data-v-5b4df450>MeritKing Canlı Tombala</span>
                               </a>
                            <li data-v-5b4df450>
-                              <a data-v-5b4df450 href=/play/casino/pragmaticplay/1101/0>
+                              <a data-v-5b4df450 href=#>
                                  <div data-v-5b4df450 class=home-casino-teaser__image><img data-v-5b4df450 src=/assets/images/112.jpg loading=lazy> </div>
                                  <span data-v-5b4df450>Sweet Bonanza Candyland</span>
                               </a>
@@ -4482,7 +4482,7 @@
                               </a>
                            </li>
                            <li data-v-5277ff64>
-                              <a data-v-5277ff64 href=/play/slot/reevo/20182/20182/0>
+                              <a data-v-5277ff64 href=#
                                  <div data-v-5277ff64><img data-v-5277ff64 src=/assets/images/118.gif loading=lazy></div>
                                  <span data-v-5277ff64>Aviatrix</span>
                               </a>
@@ -4500,7 +4500,7 @@
                               </a>
                            </li>
                            <li data-v-5277ff64>
-                              <a data-v-5277ff64 href=/play/casino/pragmaticplay/1401/0>
+                              <a data-v-5277ff64 href=#>
                                  <div data-v-5277ff64><img data-v-5277ff64 src=/assets/images/121.gif loading=lazy></div>
                                  <span data-v-5277ff64>Boom City</span>
                               </a>

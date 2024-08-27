@@ -680,7 +680,7 @@
             <div aria-live=polite style=position:absolute;left:-10000px;top:-10000px;width:1px;height:1px></div>
          </div>
          <div id=comm100-float-button-07010000-0000-0000-0000-008e00035c67-2>
-            <div id="chatbuttons" onclick="maximizeTawkToWidget()" style=position:fixed;z-index:2147483642;right:0%;bottom:0%><a href="https://vue.comm100.com/chatwindow.aspx?siteId=220263&amp;planId=07010000-0000-0000-0000-008e00035c67" aria-label="Open Live Chat window" role=button><img src=/assets/images/188.jpg alt="Open Live Chat window" style=border:none></a></div>
+            <div id="chatbuttons" onclick="maximizeTawkToWidget()" style=position:fixed;z-index:2147483642;right:0%;bottom:0%><a href="#" aria-label="Open Live Chat window" role=button><img src=/assets/images/188.jpg alt="Open Live Chat window" style=border:none></a></div>
          </div>
       </div>
       <?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>

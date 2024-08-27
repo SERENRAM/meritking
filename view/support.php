@@ -5,29 +5,29 @@
          <img data-v-3b71faba="" src="/assets/images/logo-loader.png" alt="MeritKing"> <!---->
       </header>
       <div data-v-3b71faba="" class="support__links">
-         <a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/fonts/whatsapp.svg?113c371f0a63913cb24beb2b9bf2bdbc"> <span data-v-13641562="">
+         <a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/assets/images/131.svg"> <span data-v-13641562="">
          Whatsapp #1
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/fonts/whatsapp.svg?113c371f0a63913cb24beb2b9bf2bdbc"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/assets/images/131.svg"> <span data-v-13641562="">
          Whatsapp #2
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/fonts/whatsapp.svg?113c371f0a63913cb24beb2b9bf2bdbc"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/assets/images/131.svg"> <span data-v-13641562="">
          Whatsapp #3
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/fonts/whatsapp.svg?113c371f0a63913cb24beb2b9bf2bdbc"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/assets/images/131.svg"> <span data-v-13641562="">
          Whatsapp #4
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/fonts/whatsapp.svg?113c371f0a63913cb24beb2b9bf2bdbc"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/assets/images/131.svg"> <span data-v-13641562="">
          Whatsapp #5
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/fonts/whatsapp.svg?113c371f0a63913cb24beb2b9bf2bdbc"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp  false"><img data-v-13641562="" src="/assets/images/131.svg"> <span data-v-13641562="">
          Whatsapp #6
-         </span></a> <a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritkingcom" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/fonts/telegram.svg?8d8d66a0c26fba86dc60ad8043167830"> <span data-v-13641562="">
+         </span></a> <a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritkingcom" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/assets/images/130.svg"> <span data-v-13641562="">
          Telegram
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritkingcom" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/fonts/telegram.svg?8d8d66a0c26fba86dc60ad8043167830"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritkingcom" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/assets/images/130.svg"> <span data-v-13641562="">
          Telegram
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking2" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/fonts/telegram.svg?8d8d66a0c26fba86dc60ad8043167830"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking2" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/assets/images/130.svg"> <span data-v-13641562="">
          Telegram
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking5" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/fonts/telegram.svg?8d8d66a0c26fba86dc60ad8043167830"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking5" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/assets/images/130.svg"> <span data-v-13641562="">
          Telegram
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking3" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/fonts/telegram.svg?8d8d66a0c26fba86dc60ad8043167830"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking3" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/assets/images/130.svg"> <span data-v-13641562="">
          Telegram
-         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking1" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/fonts/telegram.svg?8d8d66a0c26fba86dc60ad8043167830"> <span data-v-13641562="">
+         </span></a><a data-v-13641562="" data-v-3b71faba="" target="_blank" href="https://t.me/meritking1" class="contact-link contact-link--telegram  false"><img data-v-13641562="" src="/assets/images/130.svg"> <span data-v-13641562="">
          Telegram
          </span></a> 
          <a data-v-3692bac6="" data-v-3b71faba="" href="/" target="_blank" class="rounded-icon-link rounded-icon-link--brand">

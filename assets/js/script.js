@@ -304,14 +304,14 @@ $(document).ready(function() {
     $(window).on('scroll', function() {
         if ($(this).scrollTop() > 0) {
             // Sayfa aşağı kaydırıldığında belirttiğiniz sınıfları kaldır
-            $('.app-header__slogan').removeClass('slogan-visible');
-            $('.app-header__warning').removeClass('warning-visible');
-            $('.app-header__dropdown').removeClass('dropdown-visible');
+            $('.app-header__slogan').removeClass('slogan--visible');
+            $('.app-header__warning').removeClass('warning--visible');
+            $('.app-header__dropdown').removeClass('dropdown--visible');
         } else {
             // Sayfanın en üstüne dönüldüğünde sınıfları geri ekle
-            $('.app-header__slogan').addClass('slogan-visible');
-            $('.app-header__warning').addClass('warning-visible');
-            $('.app-header__dropdown').addClass('dropdown-visible');
+            $('.app-header__slogan').addClass('slogan--visible');
+            $('.app-header__warning').addClass('warning--visible');
+            $('.app-header__dropdown').addClass('dropdown--visible');
         }
     });
 });

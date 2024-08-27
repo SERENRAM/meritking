@@ -49,17 +49,17 @@
                      Telegram #3
                      </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href=https://t.me/meritking1 class="contact-link contact-link--telegram false"><img data-v-13641562 src=/assets/images/130.svg> <span data-v-13641562>
                      Telegram #4
-                     </span></a> <a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957907823" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
+                     </span></a> <a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #1
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957908699" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #2
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380957907688" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #3
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380996065523" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #4
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380993557940" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #5
-                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=380662985872" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
+                     </span></a><a data-v-13641562 data-v-37ae1e38 target=_blank href="https://api.whatsapp.com/send?phone=40790231916" class="contact-link contact-link--whatsapp false"><img data-v-13641562 src=/assets/images/131.svg> <span data-v-13641562>
                      Whatsapp #6
                      </span></a> 
                   </div>
@@ -81,7 +81,7 @@
                   <div data-v-37ae1e38 class=app-footer__partners>
                      <div data-v-37ae1e38>
                         <h3 data-v-37ae1e38>RESMİ İŞ ORTAKLARIMIZ</h3>
-                        <a data-v-37ae1e38 href="https://bitlly.biz/redirect.php?r=4808061446" target=_blank><img data-v-37ae1e38 src=/assets/images/136.png></a> <a data-v-37ae1e38 href=https://www.redly.vip/KnxkqnL target=_blank><img data-v-37ae1e38 src=/assets/images/137.png></a> <a data-v-37ae1e38 href="https://bitlly.biz/redirect.php?r=5625975946" target=_blank class=btn><span data-v-37ae1e38>MADRIDBET</span> <span data-v-37ae1e38>Giriş Yap</span></a> <a data-v-37ae1e38 href=https://www.redly.vip/KnxkqnL target=_blank class=btn><span data-v-37ae1e38>KINGROYAL</span> <span data-v-37ae1e38>Giriş Yap</span></a>
+                        <a data-v-37ae1e38 href="#" target=_blank><img data-v-37ae1e38 src=/assets/images/136.png></a> <a data-v-37ae1e38 href=# target=_blank><img data-v-37ae1e38 src=/assets/images/137.png></a> <a data-v-37ae1e38 href="#" target=_blank class=btn><span data-v-37ae1e38>MADRIDBET</span> <span data-v-37ae1e38>Giriş Yap</span></a> <a data-v-37ae1e38 href=# target=_blank class=btn><span data-v-37ae1e38>KINGROYAL</span> <span data-v-37ae1e38>Giriş Yap</span></a>
                      </div>
                   </div>
                </div>
@@ -637,7 +637,7 @@
                      </p>
                   </div>
                </div>
-               <button class="app-modal__close btn--white"><i data-v-3ee02676="" class="icon-times-circle icon--2x"></i></button>
+               <button class="app-modal__close btn--white"  onclick="discountModal()"><i data-v-3ee02676="" class="icon-times-circle icon--2x"></i></button>
             </div>
          </div>
          <div class="app-modal hidden modal" id="depositModal">
@@ -658,7 +658,7 @@
                      </p>
                   </div>
                </div>
-               <button class="app-modal__close btn--white"><i data-v-3ee02676="" class="icon-times-circle icon--2x"></i></button>
+               <button class="app-modal__close btn--white"  onclick="depositModal()"><i data-v-3ee02676="" class="icon-times-circle icon--2x"></i></button>
             </div>
          </div>
          <div data-v-2b7e6fca class=contact-widget>
